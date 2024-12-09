@@ -686,3 +686,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 16:52:04.583] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
 [09Dec2024 16:52:08.731] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [09Dec2024 16:52:08.733] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[09Dec2024 16:52:54.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has reached the goal [Half a flight]
+[09Dec2024 16:53:03.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has reached the goal [Half a flight]
+[09Dec2024 16:54:38.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Distant Dreamer]
+[09Dec2024 16:54:38.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Distant Dreamer]
+[09Dec2024 16:56:02.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 16:56:02.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 16:56:08.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 16:56:08.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 16:56:16.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[09Dec2024 16:56:16.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[09Dec2024 16:56:27.367] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.176.199.32:50259] logged in with entity id 15879 at (-820.4145653276533, 68.0, 6.7146778682084)
+[09Dec2024 16:56:27.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 16:56:27.404] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 16:56:31.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:45845] logged in with entity id 16215 at (-876.9731667023261, 70.0, 1.6990306367316146)
+[09Dec2024 16:56:31.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[09Dec2024 16:56:31.333] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[09Dec2024 16:56:34.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.176.199.32:58457] logged in with entity id 16252 at (-931.88517188067, 74.0, 31.158931041926294)
+[09Dec2024 16:56:34.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[09Dec2024 16:56:34.383] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
