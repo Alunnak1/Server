@@ -3949,6 +3949,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-09 19:13:39 +0000"
+    },
+    "done": true
+  },
   "tetra:spelunking/find_cell": {
     "criteria": {
       "get_cell": "2024-12-09 18:50:57 +0000"
@@ -3961,9 +3967,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-09 19:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-09 18:59:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-09 19:13:39 +0000"
     },
     "done": true
   },
@@ -3988,6 +4006,36 @@
   "tetra:spelunking/find_bolt": {
     "criteria": {
       "forged_bolt": "2024-12-09 18:56:20 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-09 19:13:39 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_power": {
+    "criteria": {
+      "module": "2024-12-09 19:12:17 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_jam": {
+    "criteria": {
+      "fuel": "2024-12-09 19:13:32 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/chthonic_extractor": {
+    "criteria": {
+      "earthpiercer": "2024-12-09 19:07:57 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_fix": {
+    "criteria": {
+      "fuel": "2024-12-09 19:12:28 +0000"
     },
     "done": true
   },

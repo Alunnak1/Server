@@ -1011,3 +1011,34 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [09Dec2024 19:01:07.360] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
 [09Dec2024 19:04:21.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
 [09Dec2024 19:04:24.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alunnaki a server operator
+[09Dec2024 19:04:35.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 30 command(s) from function 'fromthefog:admin/config']
+[09Dec2024 19:04:44.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 23 command(s) from function 'watching:config/pages/2']
+[09Dec2024 19:04:46.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 26 command(s) from function 'watching:config/burning_base/true']
+[09Dec2024 19:04:47.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 23 command(s) from function 'watching:config/pages/2']
+[09Dec2024 19:04:49.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 30 command(s) from function 'watching:config/pages/3']
+[09Dec2024 19:04:51.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 25 command(s) from function 'watching:config/pages/5']
+[09Dec2024 19:04:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 24 command(s) from function 'watching:config/pages/4']
+[09Dec2024 19:04:55.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 25 command(s) from function 'watching:config/pages/5']
+[09Dec2024 19:05:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 11 command(s) from function 'watching:config/pages/6']
+[09Dec2024 19:07:57.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Deep Extraction]
+[09Dec2024 19:10:10.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[09Dec2024 19:10:10.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[09Dec2024 19:10:31.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[09Dec2024 19:10:36.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Thermal Transfer]
+[09Dec2024 19:10:51.705] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/cerbon/bosses_of_mass_destruction/entity/custom/void_blossom/hitbox/HitboxId
+[09Dec2024 19:10:51.707] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[09Dec2024 19:11:00.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[09Dec2024 19:11:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Hot Stuff]
+[09Dec2024 19:11:38.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[09Dec2024 19:12:06.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.241.203.166:34757] logged in with entity id 154800 at (-3392.9789100853195, 62.073264324665075, -427.0419427909528)
+[09Dec2024 19:12:06.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[09Dec2024 19:12:06.879] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[09Dec2024 19:12:17.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Combustion Power-up]
+[09Dec2024 19:12:23.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/153114, l='ServerLevel[world]', x=1139.23, y=96.00, z=-777.55] died, message: 'Nitwit burned to death'
+[09Dec2024 19:12:28.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Restored Machinery]
+[09Dec2024 19:13:32.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Required Maintenance]
+[09Dec2024 19:14:19.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 19:14:19.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 19:14:36.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[09Dec2024 19:14:51.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 19:14:51.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game

@@ -3971,21 +3971,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-09 18:49:15 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2024-12-09 18:35:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_golden_knife": "2024-12-09 18:56:16 +0000"
     },
     "done": true
   },
@@ -3995,15 +3983,27 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2024-12-09 18:57:09 +0000"
-    },
-    "done": true
-  },
   "tetra:spelunking/ancient_ruins": {
     "criteria": {
       "regular_ruin": "2024-12-09 18:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-09 18:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-09 18:54:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-09 18:56:16 +0000"
     },
     "done": true
   },
@@ -4019,9 +4019,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "has_peony": "2024-12-09 18:54:17 +0000"
+      "kill_mob_near_sculk_catalyst": "2024-12-09 18:57:09 +0000"
     },
     "done": true
   },
