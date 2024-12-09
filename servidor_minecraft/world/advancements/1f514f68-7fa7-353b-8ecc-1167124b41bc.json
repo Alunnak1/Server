@@ -3839,5 +3839,11 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_efficiency": {
+    "criteria": {
+      "hammer_efficiency": "2024-12-09 22:40:29 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

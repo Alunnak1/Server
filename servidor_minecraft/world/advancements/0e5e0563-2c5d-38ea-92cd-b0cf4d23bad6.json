@@ -4027,27 +4027,33 @@
     },
     "done": true
   },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2024-12-09 22:11:32 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/seeking_arrow": {
-    "criteria": {
-      "seeking_arrow": "2024-12-09 22:20:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-09 21:45:55 +0000"
     },
     "done": true
   },
-  "man:thetear": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "thetear_0": "2024-12-09 22:30:35 +0000"
+      "has_white_wool": "2024-12-09 21:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-09 21:45:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-09 22:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2024-12-09 22:11:51 +0000"
     },
     "done": true
   },
@@ -4063,9 +4069,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
+  "alexscaves:alexscaves/seeking_arrow": {
     "criteria": {
-      "has_white_wool": "2024-12-09 21:45:55 +0000"
+      "seeking_arrow": "2024-12-09 22:20:02 +0000"
     },
     "done": true
   },
@@ -4075,21 +4081,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_glazed_terracotta": {
-    "criteria": {
-      "has_black_terracotta": "2024-12-09 22:11:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2024-12-09 21:45:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-09 22:20:05 +0000"
+    },
+    "done": true
+  },
+  "man:thetear": {
+    "criteria": {
+      "thetear_0": "2024-12-09 22:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-09 22:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-09 22:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-09 22:41:29 +0000"
     },
     "done": true
   },
