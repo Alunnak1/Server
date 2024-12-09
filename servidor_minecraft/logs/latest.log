@@ -763,3 +763,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 17:41:07.671] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
 [09Dec2024 17:42:14.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
 [09Dec2024 17:42:14.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 17:43:32.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[09Dec2024 17:43:54.345] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.176.199.32:41623] logged in with entity id 81843 at (-997.4654452284504, 65.0, 103.399951882821)
+[09Dec2024 17:43:54.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 17:43:54.377] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 17:44:01.881] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[09Dec2024 17:46:41.461] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityCatfish['Calabocaputa'/80665, l='ServerLevel[world]', x=936.36, y=76.00, z=49.45] died: Calabocaputa was slain by Mirianisabel123 using [Espada de diamante1]
+[09Dec2024 17:48:12.147] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[09Dec2024 17:49:55.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: You logged in from another location
+[09Dec2024 17:49:55.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[09Dec2024 17:49:55.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.241.203.166:59117] logged in with entity id 86900 at (937.7031139314704, 77.0, 55.65434741892536)
+[09Dec2024 17:49:55.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[09Dec2024 17:49:55.919] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[09Dec2024 17:49:57.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: You logged in from another location
+[09Dec2024 17:49:57.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 17:49:57.938] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:35005] logged in with entity id 86912 at (-1007.285810554202, 67.0, 120.75702899057056)
+[09Dec2024 17:49:57.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 17:49:57.968] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 17:50:00.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 17:50:00.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 17:50:18.845] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
+[09Dec2024 17:50:29.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:38189] logged in with entity id 87523 at (-1004.7783040916569, 64.0, 115.30000001192093)
+[09Dec2024 17:50:29.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[09Dec2024 17:50:29.681] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[09Dec2024 17:50:35.283] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
