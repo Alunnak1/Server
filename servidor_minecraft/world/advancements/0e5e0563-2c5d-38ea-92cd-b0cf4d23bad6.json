@@ -49,13 +49,16 @@
       "minecraft:sparse_jungle": "2024-12-06 23:00:38 +0000",
       "minecraft:river": "2024-12-06 21:22:08 +0000",
       "minecraft:stony_shore": "2024-12-07 03:38:55 +0000",
+      "minecraft:snowy_plains": "2024-12-09 18:37:24 +0000",
       "minecraft:dripstone_caves": "2024-12-06 23:04:03 +0000",
       "minecraft:swamp": "2024-12-08 04:35:31 +0000",
       "minecraft:cold_ocean": "2024-12-08 04:41:00 +0000",
       "minecraft:forest": "2024-12-06 23:01:43 +0000",
       "minecraft:lush_caves": "2024-12-06 23:05:15 +0000",
       "minecraft:deep_cold_ocean": "2024-12-08 04:52:19 +0000",
+      "minecraft:frozen_ocean": "2024-12-09 18:37:27 +0000",
       "minecraft:windswept_forest": "2024-12-08 05:03:16 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-09 18:40:41 +0000",
       "minecraft:jungle": "2024-12-06 23:02:23 +0000",
       "minecraft:ocean": "2024-12-07 03:24:50 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-08 05:04:19 +0000",
@@ -1086,6 +1089,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-09 18:49:15 +0000",
       "minecraft:skeleton": "2024-12-06 23:59:27 +0000",
       "minecraft:hoglin": "2024-12-07 02:17:28 +0000",
       "minecraft:spider": "2024-12-07 04:23:24 +0000",
@@ -1099,7 +1103,8 @@
       "minecraft:stray": "2024-12-07 04:34:49 +0000",
       "minecraft:silverfish": "2024-12-07 20:59:13 +0000",
       "minecraft:zombie": "2024-12-06 21:39:50 +0000",
-      "minecraft:drowned": "2024-12-08 04:44:28 +0000"
+      "minecraft:drowned": "2024-12-08 04:44:28 +0000",
+      "minecraft:zombie_villager": "2024-12-09 18:57:01 +0000"
     },
     "done": false
   },
@@ -3535,6 +3540,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-12-09 18:21:47 +0000",
       "in_better_spider_dungeon": "2024-12-08 04:26:01 +0000"
     },
     "done": false
@@ -3950,6 +3956,72 @@
   "minecraft:recipes/decorations/gray_glazed_terracotta": {
     "criteria": {
       "has_gray_terracotta": "2024-12-09 04:48:09 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-09 18:21:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-12-09 18:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-09 18:49:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-09 18:35:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-09 18:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-09 18:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-09 18:57:09 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "regular_ruin": "2024-12-09 18:47:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2024-12-09 18:56:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-09 18:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-09 18:54:17 +0000"
     },
     "done": true
   },

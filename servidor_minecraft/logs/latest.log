@@ -790,3 +790,224 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 17:57:12.914] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
 [09Dec2024 17:57:40.529] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
 [09Dec2024 18:00:27.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsGOJIRA> E
+[09Dec2024 18:05:15.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[09Dec2024 18:05:15.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[09Dec2024 18:05:56.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 18:05:56.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 18:06:02.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.241.203.166:58425] logged in with entity id 94617 at (937.9249224035217, 69.5, 36.96564343393292)
+[09Dec2024 18:06:02.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[09Dec2024 18:06:02.907] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[09Dec2024 18:06:06.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:37847] logged in with entity id 94752 at (-993.605736845003, 112.0, 657.4376084674944)
+[09Dec2024 18:06:06.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[09Dec2024 18:06:06.067] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[09Dec2024 18:10:26.448] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[09Dec2024 18:12:15.407] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/CrabEntity$CrabSize
+[09Dec2024 18:13:02.314] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 18:13:02.316] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 18:13:02.341] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 18:13:02.342] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Dec2024 18:13:15.789] [Worker-Main-4/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Dec2024 18:13:25.197] [Worker-Main-3/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mss:desert_well
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_214015_(SinglePoolElement.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at com.finndog.mss.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:106) ~[mss-1.1.2-1.20.jar%23238!/:?]
+	at com.finndog.mss.world.structures.GenericJigsawStructure.m_214086_(GenericJigsawStructure.java:213) ~[mss-1.1.2-1.20.jar%23238!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_262864_(Structure.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:466) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_255037_(ChunkGenerator.java:448) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_289181_(ChunkStatus.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 16
+	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23277!/:?]
+	... 45 more
+[09Dec2024 18:13:58.323] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[09Dec2024 18:13:58.325] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[09Dec2024 18:14:01.438] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[09Dec2024 18:14:01.439] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[09Dec2024 18:14:01.899] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[09Dec2024 18:14:31.076] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=27, z=-561}
+[09Dec2024 18:14:31.077] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-372, y=27, z=-561}
+[09Dec2024 18:14:31.077] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-373, y=27, z=-561}
+[09Dec2024 18:15:02.441] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[09Dec2024 18:15:02.442] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[09Dec2024 18:16:28.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> -1900 200
+[09Dec2024 18:16:32.537] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[09Dec2024 18:17:26.377] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[09Dec2024 18:19:49.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Iron Maiden]
+[09Dec2024 18:20:46.249] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/106487, l='ServerLevel[world]', x=-1907.81, y=26.00, z=128.19] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:20:52.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/106489, l='ServerLevel[world]', x=-1906.72, y=26.00, z=129.91] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:21:00.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/106488, l='ServerLevel[world]', x=-1906.84, y=26.00, z=130.83] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:21:47.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [When in Rome]
+[09Dec2024 18:22:54.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/109169, l='ServerLevel[world]', x=-1861.62, y=26.00, z=58.94] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:23:01.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/109025, l='ServerLevel[world]', x=-1860.93, y=27.00, z=59.70] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:23:04.856] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/108717, l='ServerLevel[world]', x=-1861.22, y=27.18, z=59.52] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:23:41.338] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/108920, l='ServerLevel[world]', x=-1858.27, y=26.00, z=192.51] died: Debris Miner was slain by ItsGOJIRA
+[09Dec2024 18:24:00.305] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/109622, l='ServerLevel[world]', x=-1861.13, y=26.00, z=192.75] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:24:07.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/109150, l='ServerLevel[world]', x=-1859.26, y=26.00, z=194.15] died: Debris Miner was slain by ItsGOJIRA
+[09Dec2024 18:24:17.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/109621, l='ServerLevel[world]', x=-1860.88, y=26.00, z=188.87] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:24:28.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/109275, l='ServerLevel[world]', x=-1861.57, y=26.00, z=198.44] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:24:30.859] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/109276, l='ServerLevel[world]', x=-1856.97, y=26.00, z=199.47] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:24:32.284] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/109274, l='ServerLevel[world]', x=-1855.83, y=26.00, z=219.50] died: Debris Miner was slain by ItsGOJIRA
+[09Dec2024 18:24:41.275] [Worker-Main-4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[09Dec2024 18:25:52.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/113570, l='ServerLevel[world]', x=-1819.73, y=26.00, z=139.25] died: Debris Miner was slain by ItsGOJIRA
+[09Dec2024 18:26:01.183] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[09Dec2024 18:26:07.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/114155, l='ServerLevel[world]', x=-1811.63, y=26.00, z=142.90] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:26:27.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/114156, l='ServerLevel[world]', x=-1811.70, y=26.00, z=143.09] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:26:31.182] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/114628, l='ServerLevel[world]', x=-1791.41, y=26.00, z=129.30] died: Debris Miner was slain by ItsGOJIRA
+[09Dec2024 18:26:34.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/113461, l='ServerLevel[world]', x=-1811.27, y=26.00, z=142.80] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:26:43.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/113572, l='ServerLevel[world]', x=-1811.26, y=26.00, z=142.74] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:26:48.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/114740, l='ServerLevel[world]', x=-1812.17, y=26.00, z=143.84] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:26:50.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/113571, l='ServerLevel[world]', x=-1812.45, y=26.00, z=143.92] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:26:51.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/115521, l='ServerLevel[world]', x=-1812.06, y=26.00, z=143.30] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:26:54.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/115377, l='ServerLevel[world]', x=-1812.51, y=26.00, z=144.83] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:27:02.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/115522, l='ServerLevel[world]', x=-1815.22, y=26.00, z=145.42] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:27:15.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/116224, l='ServerLevel[world]', x=-1814.40, y=26.00, z=141.49] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:27:38.159] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/117290, l='ServerLevel[world]', x=-1785.34, y=26.00, z=146.56] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:28:26.787] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/113919, l='ServerLevel[world]', x=-1827.42, y=26.00, z=141.07] died: Debris Miner was slain by ItsGOJIRA
+[09Dec2024 18:28:35.563] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
+[09Dec2024 18:28:51.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved wrongly!
+[09Dec2024 18:28:58.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved wrongly!
+[09Dec2024 18:29:04.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/119683, l='ServerLevel[world]', x=-1817.96, y=23.32, z=177.84] died: Debris Miner was slain by MauricioX1
+[09Dec2024 18:29:10.438] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/113918, l='ServerLevel[world]', x=-1821.61, y=23.00, z=179.64] died: Debris Miner was slain by ItsGOJIRA
+[09Dec2024 18:29:11.766] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[09Dec2024 18:29:13.829] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/120059, l='ServerLevel[world]', x=-1821.70, y=24.00, z=174.65] died: Debris Miner was slain by ItsGOJIRA
+[09Dec2024 18:29:17.769] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[09Dec2024 18:29:31.441] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[09Dec2024 18:29:31.604] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[09Dec2024 18:29:31.604] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[09Dec2024 18:29:31.605] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[09Dec2024 18:29:31.605] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[09Dec2024 18:29:31.613] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[09Dec2024 18:29:31.614] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[09Dec2024 18:29:31.614] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[09Dec2024 18:29:31.614] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[09Dec2024 18:29:31.621] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[09Dec2024 18:29:31.622] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[09Dec2024 18:29:31.622] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[09Dec2024 18:29:31.622] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[09Dec2024 18:29:31.722] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[09Dec2024 18:29:31.723] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[09Dec2024 18:29:31.723] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[09Dec2024 18:29:31.724] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[09Dec2024 18:29:31.755] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[09Dec2024 18:29:31.755] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[09Dec2024 18:29:31.756] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[09Dec2024 18:29:31.756] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[09Dec2024 18:29:31.797] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[09Dec2024 18:29:31.797] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[09Dec2024 18:29:31.797] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[09Dec2024 18:29:31.917] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[09Dec2024 18:29:31.917] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[09Dec2024 18:29:31.917] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[09Dec2024 18:29:31.918] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[09Dec2024 18:29:31.956] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[09Dec2024 18:29:31.956] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[09Dec2024 18:29:31.957] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[09Dec2024 18:29:31.957] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[09Dec2024 18:29:40.318] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[09Dec2024 18:29:40.319] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[09Dec2024 18:29:40.319] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[09Dec2024 18:29:40.320] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[09Dec2024 18:29:50.137] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/120227, l='ServerLevel[world]', x=-1823.44, y=24.35, z=169.31] died: Debris Miner was slain by ItsGOJIRA
+[09Dec2024 18:30:33.783] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[09Dec2024 18:30:33.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[09Dec2024 18:30:44.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.241.203.166:55837] logged in with entity id 123758 at (-1240.659135208074, 62.00656979786907, 40.69999998807907)
+[09Dec2024 18:30:44.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[09Dec2024 18:30:44.643] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[09Dec2024 18:35:36.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has completed the challenge [Free Willy]
+[09Dec2024 18:35:55.552] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Dec2024 18:35:59.876] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Dec2024 18:35:59.971] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Dec2024 18:36:11.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -2.6730591118548546,8.61638505898005,-5.090959876792823
+[09Dec2024 18:36:31.888] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 18:36:31.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 18:36:46.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:52859] logged in with entity id 130657 at (-2216.682331987914, 63.0, -53.697286015488444)
+[09Dec2024 18:36:46.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 18:36:46.833] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 18:38:00.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -0.4055743698900187,0.3693736602695097,10.40230101609066
+[09Dec2024 18:38:52.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has completed the challenge [Free Willy]
+[09Dec2024 18:38:54.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has completed the challenge [Free Willy]
+[09Dec2024 18:40:44.712] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[09Dec2024 18:41:09.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved too quickly! -8.612996639598805,1.2526721619163368,-4.9902518699926475
+[09Dec2024 18:41:09.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -9.145418966842499,0.08137679457659885,-4.045430554427014
+[09Dec2024 18:41:09.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
+[09Dec2024 18:42:18.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[09Dec2024 18:45:11.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/BoatGoals
+[09Dec2024 18:46:02.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Long Gone]
+[09Dec2024 18:46:14.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Long Gone]
+[09Dec2024 18:46:52.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 1.375
+[09Dec2024 18:46:52.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 1.375
+[09Dec2024 18:46:52.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 1.375
+[09Dec2024 18:46:52.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 1.375
+[09Dec2024 18:46:56.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 1.3811680364156018
+[09Dec2024 18:46:56.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 1.3837975676233327
+[09Dec2024 18:46:56.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 1.386164145647399
+[09Dec2024 18:46:56.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 1.3882940658127154
+[09Dec2024 18:47:08.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Long Gone]
+[09Dec2024 18:48:03.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 0.6856104223464285
+[09Dec2024 18:48:03.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 1.0095128994134939
+[09Dec2024 18:48:03.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 1.2965229378225445
+[09Dec2024 18:48:03.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved wrongly! 0.2980847680805141
+[09Dec2024 18:49:15.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Voluntary Exile]
+[09Dec2024 18:49:15.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Universal Fastener]
+[09Dec2024 18:49:32.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Deep Extraction]
+[09Dec2024 18:50:57.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Thermal Container]
+[09Dec2024 18:50:57.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Thermal Transfer]
+[09Dec2024 18:52:18.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Intradimensional Technology]
+[09Dec2024 18:55:10.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:36599] logged in with entity id 141562 at (76.30000001192093, 221.0, 59.69999998807907)
+[09Dec2024 18:55:10.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[09Dec2024 18:55:10.603] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[09Dec2024 18:55:20.017] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/cadentem/cave_dweller/entities/goals/Roll
+[09Dec2024 18:55:47.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has completed the challenge [It Spreads]
+[09Dec2024 18:56:04.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Thermal Container]
+[09Dec2024 18:56:16.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Hunt and Gather]
+[09Dec2024 18:56:20.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Universal Fastener]
+[09Dec2024 18:57:09.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has completed the challenge [It Spreads]
+[09Dec2024 19:00:51.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[09Dec2024 19:00:51.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[09Dec2024 19:01:07.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:38209] logged in with entity id 146594 at (565.8073072292223, 80.0, -62.0711126461824)
+[09Dec2024 19:01:07.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[09Dec2024 19:01:07.360] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[09Dec2024 19:04:21.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[09Dec2024 19:04:24.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alunnaki a server operator
