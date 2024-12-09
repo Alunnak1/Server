@@ -3682,6 +3682,12 @@
     },
     "done": true
   },
+  "man:kill": {
+    "criteria": {
+      "kill_0": "2024-12-09 19:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-09 19:19:11 +0000"
@@ -3742,9 +3748,21 @@
     },
     "done": true
   },
+  "man:thetear": {
+    "criteria": {
+      "thetear_0": "2024-12-09 19:34:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-09 19:11:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-09 19:35:11 +0000"
     },
     "done": true
   },
