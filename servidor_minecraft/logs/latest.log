@@ -718,3 +718,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 17:12:49.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.176.199.32:50409] logged in with entity id 46435 at (-833.5852789389645, 232.75271975197225, 122.41295416156665)
 [09Dec2024 17:12:49.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
 [09Dec2024 17:12:49.778] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[09Dec2024 17:14:10.187] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:53841] logged in with entity id 48557 at (-874.5909483813313, 232.0, 55.211985079388214)
+[09Dec2024 17:14:10.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[09Dec2024 17:14:10.245] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[09Dec2024 17:19:57.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Dec2024 17:19:57.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puto el que lea<--[HERE]
+[09Dec2024 17:20:14.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alunnaki a server operator
+[09Dec2024 17:20:22.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alunnaki no longer a server operator
