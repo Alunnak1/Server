@@ -3047,12 +3047,6 @@
     },
     "done": true
   },
-  "tetra:spelunking/hammer_jam": {
-    "criteria": {
-      "fuel": "2024-12-09 19:30:06 +0000"
-    },
-    "done": true
-  },
   "tetra:recipes/workbench": {
     "criteria": {
       "hammer": "2024-12-09 19:23:59 +0000"
@@ -3062,6 +3056,18 @@
   "tetra:spelunking/hammer_fix": {
     "criteria": {
       "fuel": "2024-12-09 19:24:07 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_jam": {
+    "criteria": {
+      "fuel": "2024-12-09 19:30:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-09 21:46:40 +0000"
     },
     "done": true
   },

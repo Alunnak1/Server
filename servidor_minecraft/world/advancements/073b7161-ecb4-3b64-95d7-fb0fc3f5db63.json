@@ -4045,5 +4045,24 @@
     },
     "done": true
   },
+  "tetra:upgrades/tool_upgrade": {
+    "criteria": {
+      "pickaxe": "2024-12-09 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/use_bolt": {
+    "criteria": {
+      "tool": "2024-12-09 21:40:20 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_2": {
+    "criteria": {
+      "stone_left": "2024-12-09 21:41:37 +0000",
+      "stone_right": "2024-12-09 21:41:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
