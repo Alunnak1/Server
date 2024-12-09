@@ -3861,27 +3861,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2024-12-09 04:42:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-12-09 04:43:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-12-09 04:46:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-09 04:43:10 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_keep_kayra": {
-    "criteria": {
-      "location0": "2024-12-09 04:42:49 +0000"
     },
     "done": true
   },
@@ -3900,12 +3894,6 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-09 04:43:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_glazed_terracotta": {
-    "criteria": {
-      "has_gray_terracotta": "2024-12-09 04:48:09 +0000"
     },
     "done": true
   },
@@ -3939,15 +3927,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-09 04:43:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-09 04:46:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-09 04:46:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
     "criteria": {
-      "has_sandstone": "2024-12-09 04:43:10 +0000"
+      "has_gray_terracotta": "2024-12-09 04:48:09 +0000"
     },
     "done": true
   },

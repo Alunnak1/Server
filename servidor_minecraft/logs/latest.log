@@ -762,3 +762,27 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [09Dec2024 04:44:49.480] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [stalwart_dungeons:stalwart_dungeons,the_knocker:the_knocker,alexscaves:main_channel,structure_gel:main,guardvillagers:main,citadel:main_channel,tetra:main,easymagic:1,corgilib:network,friendsandfoes:networking,framework:play,curios:main,enhancedcelestials:network,cave_dweller:main,framework:handshake,forge:tier_sorting,alexsmobs:main_channel,mowziesmobs:net,paraglider:master,creativecore:main,eyesinthedarkness:main,man:man,mutantmonsters:1,backpacked:play,geckolib:main] rejected vanilla connections
 [09Dec2024 04:44:49.481] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.203.52.13:57975] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
 [09Dec2024 04:45:05.421] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[09Dec2024 04:55:05.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[09Dec2024 04:55:05.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[09Dec2024 04:55:41.430] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.251.22.77:52663] logged in with entity id 19718 at (-846.5556587530751, 113.235875, 108.2041113743651)
+[09Dec2024 04:55:41.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[09Dec2024 04:55:41.462] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[09Dec2024 04:55:48.440] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[09Dec2024 05:02:35.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[09Dec2024 05:10:28.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Dec2024 05:10:28.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Dec2024 05:10:28.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Dec2024 05:10:28.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Server closed
+[09Dec2024 05:10:28.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[09Dec2024 05:10:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Dec2024 05:10:28.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Dec2024 05:10:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Dec2024 05:10:28.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Dec2024 05:10:28.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Dec2024 05:10:28.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Dec2024 05:10:28.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Dec2024 05:10:28.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Dec2024 05:10:28.676] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Dec2024 05:10:28.678] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[09Dec2024 05:10:28.678] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[09Dec2024 05:10:28.679] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
