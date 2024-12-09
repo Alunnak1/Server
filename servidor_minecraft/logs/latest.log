@@ -888,3 +888,31 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [09Dec2024 22:43:42.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 30 command(s) from function 'fromthefog:admin/config']
 [09Dec2024 22:43:46.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 11 command(s) from function 'watching:config/pages/6']
 [09Dec2024 22:43:47.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Executed 64 command(s) from function 'watching:config/autoconfig/enable']
+[09Dec2024 22:46:03.570] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[09Dec2024 22:46:03.572] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[09Dec2024 22:46:03.573] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[09Dec2024 22:46:03.660] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[09Dec2024 22:46:03.661] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[09Dec2024 22:46:14.062] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[09Dec2024 22:46:14.065] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[09Dec2024 22:46:14.065] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[09Dec2024 22:46:14.066] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[09Dec2024 22:46:14.066] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[09Dec2024 22:47:12.377] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[09Dec2024 22:47:12.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved too quickly! 10.059625198045751,1.7472245872340864E-11,-0.8918794805696848
+[09Dec2024 22:47:12.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved too quickly! 10.370481010589401,1.745092959026806E-11,-1.0945050693807161
+[09Dec2024 22:47:12.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved too quickly! 10.682509268219746,1.7429613308195258E-11,-1.3005201376732884
+[09Dec2024 22:47:12.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Mirianisabel123) moved too quickly! 10.995739495387397,1.7408297026122455E-11,-1.509384251367294
+[09Dec2024 22:47:58.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved too quickly! 10.05404995872027,0.2556239176552282,0.30966932198521135
+[09Dec2024 22:47:58.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3352ms or 67 ticks behind
+[09Dec2024 22:47:58.648] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[09Dec2024 22:48:01.201] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Dec2024 22:49:01.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[09Dec2024 22:51:19.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[09Dec2024 22:51:34.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[09Dec2024 22:52:48.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[09Dec2024 22:53:44.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[09Dec2024 22:53:48.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[09Dec2024 22:54:00.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Alex's Caves]
+[09Dec2024 22:54:07.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[09Dec2024 22:55:07.598] [Worker-Main-7/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
