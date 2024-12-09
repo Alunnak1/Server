@@ -3222,7 +3222,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2024-12-07 05:00:50 +0000"
+      "in_better_zombie_dungeon": "2024-12-07 05:00:50 +0000",
+      "in_better_monster_room": "2024-12-09 21:11:59 +0000"
     },
     "done": false
   },
@@ -3676,15 +3677,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_glass_pane": "2024-12-09 19:19:11 +0000"
+      "lava_bucket": "2024-12-09 19:11:35 +0000"
     },
     "done": true
   },
-  "man:kill": {
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "kill_0": "2024-12-09 19:34:44 +0000"
+      "has_glass_pane": "2024-12-09 19:19:11 +0000"
     },
     "done": true
   },
@@ -3697,12 +3698,6 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-09 19:19:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2024-12-09 19:28:35 +0000"
     },
     "done": true
   },
@@ -3748,24 +3743,6 @@
     },
     "done": true
   },
-  "man:thetear": {
-    "criteria": {
-      "thetear_0": "2024-12-09 19:34:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-09 19:11:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2024-12-09 19:35:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-09 19:19:11 +0000"
@@ -3799,6 +3776,54 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-09 19:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2024-12-09 19:28:35 +0000"
+    },
+    "done": true
+  },
+  "man:kill": {
+    "criteria": {
+      "kill_0": "2024-12-09 19:34:44 +0000"
+    },
+    "done": true
+  },
+  "man:thetear": {
+    "criteria": {
+      "thetear_0": "2024-12-09 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-09 19:35:11 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-09 21:11:59 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-09 20:59:02 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2024-12-09 21:00:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-12-09 21:00:51 +0000"
     },
     "done": true
   },
