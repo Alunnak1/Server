@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-09 00:36:38 +0000",
       "minecraft:taiga": "2024-12-09 16:49:17 +0000",
+      "minecraft:deep_ocean": "2024-12-09 22:06:12 +0000",
       "minecraft:sunflower_plains": "2024-12-07 00:34:24 +0000",
       "minecraft:cherry_grove": "2024-12-08 02:19:12 +0000",
       "minecraft:birch_forest": "2024-12-07 00:48:55 +0000",
@@ -933,7 +934,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "cabbage": "2024-12-06 20:23:37 +0000"
+      "cabbage": "2024-12-06 20:23:37 +0000",
+      "potato": "2024-12-09 22:29:12 +0000",
+      "wheat": "2024-12-09 22:28:51 +0000",
+      "carrot": "2024-12-09 22:29:10 +0000"
     },
     "done": false
   },
@@ -963,6 +967,7 @@
       "minecraft:cave_spider": "2024-12-06 22:58:09 +0000",
       "minecraft:stray": "2024-12-06 22:39:49 +0000",
       "minecraft:enderman": "2024-12-06 23:16:22 +0000",
+      "minecraft:silverfish": "2024-12-09 22:13:34 +0000",
       "minecraft:zombie": "2024-12-06 20:45:41 +0000",
       "minecraft:drowned": "2024-12-09 17:31:01 +0000",
       "minecraft:zombie_villager": "2024-12-06 23:28:53 +0000"
@@ -4045,15 +4050,15 @@
     },
     "done": true
   },
-  "tetra:upgrades/tool_upgrade": {
-    "criteria": {
-      "pickaxe": "2024-12-09 21:40:40 +0000"
-    },
-    "done": true
-  },
   "tetra:spelunking/use_bolt": {
     "criteria": {
       "tool": "2024-12-09 21:40:20 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/tool_upgrade": {
+    "criteria": {
+      "pickaxe": "2024-12-09 21:40:40 +0000"
     },
     "done": true
   },
@@ -4061,6 +4066,30 @@
     "criteria": {
       "stone_left": "2024-12-09 21:41:37 +0000",
       "stone_right": "2024-12-09 21:41:48 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/hammer_3": {
+    "criteria": {
+      "head_right": "2024-12-09 21:52:59 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-09 22:11:25 +0000"
+    },
+    "done": true
+  },
+  "man:thetear": {
+    "criteria": {
+      "thetear_0": "2024-12-09 22:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-09 22:28:51 +0000"
     },
     "done": true
   },

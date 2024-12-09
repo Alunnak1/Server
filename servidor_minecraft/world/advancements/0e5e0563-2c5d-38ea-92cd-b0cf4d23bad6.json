@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-09 01:33:28 +0000",
       "minecraft:taiga": "2024-12-08 05:03:31 +0000",
+      "minecraft:deep_ocean": "2024-12-09 22:06:13 +0000",
       "minecraft:sunflower_plains": "2024-12-07 05:00:36 +0000",
       "minecraft:cherry_grove": "2024-12-07 21:15:32 +0000",
       "minecraft:birch_forest": "2024-12-06 23:46:21 +0000",
@@ -1102,6 +1103,7 @@
       "minecraft:cave_spider": "2024-12-07 04:34:17 +0000",
       "minecraft:stray": "2024-12-07 04:34:49 +0000",
       "minecraft:silverfish": "2024-12-07 20:59:13 +0000",
+      "minecraft:enderman": "2024-12-09 21:57:10 +0000",
       "minecraft:zombie": "2024-12-06 21:39:50 +0000",
       "minecraft:drowned": "2024-12-08 04:44:28 +0000",
       "minecraft:zombie_villager": "2024-12-09 18:57:01 +0000"
@@ -4025,9 +4027,39 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-09 22:11:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/seeking_arrow": {
+    "criteria": {
+      "seeking_arrow": "2024-12-09 22:20:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-09 21:45:55 +0000"
+    },
+    "done": true
+  },
+  "man:thetear": {
+    "criteria": {
+      "thetear_0": "2024-12-09 22:30:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-09 22:12:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2024-12-09 22:18:53 +0000"
     },
     "done": true
   },
@@ -4037,9 +4069,27 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-09 22:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2024-12-09 22:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-09 21:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 22:20:05 +0000"
     },
     "done": true
   },

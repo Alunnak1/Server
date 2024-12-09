@@ -3827,5 +3827,17 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-09 21:53:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-09 22:21:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
