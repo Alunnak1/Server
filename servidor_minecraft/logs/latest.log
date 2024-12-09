@@ -1042,3 +1042,39 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [09Dec2024 19:14:36.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
 [09Dec2024 19:14:51.431] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
 [09Dec2024 19:14:51.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 19:15:28.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[09Dec2024 19:15:28.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[09Dec2024 19:16:37.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set the time to 13000]
+[09Dec2024 19:17:06.926] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/153260, l='ServerLevel[world]', x=1156.55, y=96.00, z=-788.70] died, message: 'Villager burned to death'
+[09Dec2024 19:18:28.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/153264, l='ServerLevel[world]', x=1116.46, y=76.44, z=-820.70] died, message: 'Villager went up in flames'
+[09Dec2024 19:20:58.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:42727] logged in with entity id 162128 at (-3377.8323781547306, -23.0, -456.5365740518634)
+[09Dec2024 19:20:58.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 19:20:58.403] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 19:21:02.049] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/160936, l='ServerLevel[world]', x=1082.70, y=88.00, z=-796.49] died, message: 'Beekeeper was blown up by Alunnaki'
+[09Dec2024 19:21:05.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:35045] logged in with entity id 162578 at (-3368.2620864139085, -26.0, -455.30000001192093)
+[09Dec2024 19:21:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[09Dec2024 19:21:06.029] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[09Dec2024 19:22:38.249] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 19:22:38.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 19:22:53.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:60861] logged in with entity id 163710 at (-3389.5700244867694, -22.0, -439.69999998807907)
+[09Dec2024 19:22:53.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[09Dec2024 19:22:53.107] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[09Dec2024 19:23:59.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Bench mk II]
+[09Dec2024 19:24:07.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Restored Machinery]
+[09Dec2024 19:26:09.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved too quickly! 6.823363348223211,0.0,7.535983324523727
+[09Dec2024 19:27:32.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 19:27:32.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 19:27:40.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:60803] logged in with entity id 169590 at (-3362.300000011921, -3.0, -441.30000001192093)
+[09Dec2024 19:27:40.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 19:27:40.782] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 19:29:13.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/153325, l='ServerLevel[world]', x=1124.41, y=77.00, z=-816.53] died, message: 'Fletcher burned to death'
+[09Dec2024 19:30:06.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [Required Maintenance]
+[09Dec2024 19:30:27.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 19:30:27.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 19:34:08.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/160923, l='ServerLevel[world]', x=1114.57, y=95.00, z=-793.65] died, message: 'Farmer was blown up by Alunnaki'
+[09Dec2024 19:34:44.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has reached the goal [Is this THE end?]
+[09Dec2024 19:34:45.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [The Tear Of The Man]
+[09Dec2024 19:35:04.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/160926, l='ServerLevel[world]', x=1136.40, y=95.85, z=-795.36] died, message: 'Beekeeper was blown up by Alunnaki'
+[09Dec2024 19:35:05.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/160949, l='ServerLevel[world]', x=1139.72, y=95.00, z=-800.48] died, message: 'Villager was blown up by Alunnaki'
+[09Dec2024 19:35:05.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/160922, l='ServerLevel[world]', x=1140.30, y=96.00, z=-798.50] died, message: 'Beekeeper was blown up by Alunnaki'
+[09Dec2024 19:35:05.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/160921, l='ServerLevel[world]', x=1120.05, y=95.00, z=-790.70] died, message: 'Beekeeper was blown up by Alunnaki'
