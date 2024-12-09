@@ -960,6 +960,7 @@
       "minecraft:stray": "2024-12-06 22:39:49 +0000",
       "minecraft:enderman": "2024-12-06 23:16:22 +0000",
       "minecraft:zombie": "2024-12-06 20:45:41 +0000",
+      "minecraft:drowned": "2024-12-09 17:31:01 +0000",
       "minecraft:zombie_villager": "2024-12-06 23:28:53 +0000"
     },
     "done": false
@@ -982,6 +983,7 @@
       "cooked_mutton": "2024-12-06 20:37:21 +0000",
       "cooked_beef": "2024-12-06 23:25:59 +0000",
       "baked_potato": "2024-12-06 20:29:14 +0000",
+      "beef": "2024-12-09 17:32:43 +0000",
       "porkchop": "2024-12-07 02:03:04 +0000",
       "apple": "2024-12-06 22:01:15 +0000",
       "potato": "2024-12-08 02:17:37 +0000",
@@ -3871,9 +3873,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-09 17:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-09 17:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 17:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-09 17:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 17:21:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2024-12-09 17:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2024-12-09 17:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-09 17:21:32 +0000"
     },
     "done": true
   },

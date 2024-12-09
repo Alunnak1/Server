@@ -725,3 +725,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 17:19:57.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: puto el que lea<--[HERE]
 [09Dec2024 17:20:14.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alunnaki a server operator
 [09Dec2024 17:20:22.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Alunnaki no longer a server operator
+[09Dec2024 17:25:01.487] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
+[09Dec2024 17:27:25.845] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
+[09Dec2024 17:27:33.477] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
+[09Dec2024 17:27:45.545] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
+[09Dec2024 17:27:51.897] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
+[09Dec2024 17:28:07.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 17:28:07.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 17:29:25.200] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
+[09Dec2024 17:29:43.791] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[09Dec2024 17:29:43.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> bcspn
+[09Dec2024 17:30:40.512] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/grottol/EntityGrottol$EnumDeathType
+[09Dec2024 17:30:48.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:58143] logged in with entity id 64540 at (-928.7600807528257, 64.16610926093821, 56.28134333967649)
+[09Dec2024 17:30:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[09Dec2024 17:30:48.906] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
+[09Dec2024 17:30:48.944] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[09Dec2024 17:31:20.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[09Dec2024 17:33:09.841] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/MaulerEntity$Type
+[09Dec2024 17:33:17.414] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[09Dec2024 17:33:17.415] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[09Dec2024 17:33:17.416] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[09Dec2024 17:33:17.416] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[09Dec2024 17:33:17.422] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[09Dec2024 17:33:17.424] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[09Dec2024 17:33:17.425] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[09Dec2024 17:33:17.425] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[09Dec2024 17:33:17.596] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[09Dec2024 17:33:17.597] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[09Dec2024 17:33:17.597] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[09Dec2024 17:33:17.598] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[09Dec2024 17:33:17.822] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/54366, l='ServerLevel[world]', x=-960.37, y=75.00, z=-5.00, removed=DISCARDED]
+[09Dec2024 17:33:50.856] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[09Dec2024 17:33:50.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[09Dec2024 17:34:05.413] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[09Dec2024 17:38:19.299] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[09Dec2024 17:39:50.645] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/naga/EntityNaga$EnumNagaMovement
+[09Dec2024 17:41:07.671] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[09Dec2024 17:42:14.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 17:42:14.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
