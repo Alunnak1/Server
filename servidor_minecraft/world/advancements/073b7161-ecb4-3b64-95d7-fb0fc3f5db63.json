@@ -38,6 +38,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-12-09 00:36:38 +0000",
+      "minecraft:taiga": "2024-12-09 16:49:17 +0000",
       "minecraft:sunflower_plains": "2024-12-07 00:34:24 +0000",
       "minecraft:cherry_grove": "2024-12-08 02:19:12 +0000",
       "minecraft:birch_forest": "2024-12-07 00:48:55 +0000",
@@ -3772,15 +3773,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_nether_brick_wall": {
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
     "criteria": {
-      "has_red_nether_bricks": "2024-12-09 01:39:49 +0000"
+      "has_sweet_berries": "2024-12-09 01:35:12 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roast_chicken_block": {
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
-      "has_cooked_chicken": "2024-12-09 01:51:30 +0000"
+      "has_red_nether_bricks": "2024-12-09 01:39:49 +0000"
     },
     "done": true
   },
@@ -3808,9 +3809,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
-      "has_sweet_berries": "2024-12-09 01:35:12 +0000"
+      "has_red_nether_bricks": "2024-12-09 01:39:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-09 01:51:30 +0000"
     },
     "done": true
   },
@@ -3820,9 +3827,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+  "friendsandfoes:adventure/the_magicians": {
     "criteria": {
-      "has_red_nether_bricks": "2024-12-09 01:39:49 +0000"
+      "killed_illusioner": "2024-12-09 16:50:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-09 16:48:29 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2024-12-09 16:50:56 +0000"
     },
     "done": true
   },
