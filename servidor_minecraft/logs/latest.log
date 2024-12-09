@@ -705,3 +705,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Dec2024 16:56:34.340] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.176.199.32:58457] logged in with entity id 16252 at (-931.88517188067, 74.0, 31.158931041926294)
 [09Dec2024 16:56:34.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
 [09Dec2024 16:56:34.383] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[09Dec2024 17:10:59.398] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[09Dec2024 17:12:31.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[09Dec2024 17:12:31.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[09Dec2024 17:12:35.275] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 17:12:35.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 17:12:37.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 17:12:37.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 17:12:45.629] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.176.199.32:37567] logged in with entity id 46291 at (-873.9210706952372, 232.0, 56.380090725411804)
+[09Dec2024 17:12:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 17:12:45.662] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 17:12:49.735] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.176.199.32:50409] logged in with entity id 46435 at (-833.5852789389645, 232.75271975197225, 122.41295416156665)
+[09Dec2024 17:12:49.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[09Dec2024 17:12:49.778] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
