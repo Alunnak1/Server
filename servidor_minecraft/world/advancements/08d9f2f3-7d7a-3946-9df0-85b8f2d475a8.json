@@ -484,6 +484,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-09 00:36:45 +0000",
+      "sweet_berries": "2024-12-09 23:26:49 +0000",
       "cooked_beef": "2024-12-08 02:16:48 +0000",
       "baked_potato": "2024-12-06 23:17:47 +0000",
       "apple": "2024-12-08 23:59:20 +0000",
@@ -1568,6 +1569,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2024-12-09 23:26:51 +0000",
       "tomato": "2024-12-08 01:55:44 +0000",
       "wheat": "2024-12-06 23:42:43 +0000"
     },

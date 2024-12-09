@@ -1068,3 +1068,61 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [09Dec2024 23:25:43.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! 2.864884310241905,0.0,9.69578291577318
 [09Dec2024 23:26:29.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity EntityTerrapin['Pepito'/121669, l='ServerLevel[world]', x=993.28, y=61.50, z=-27.71] died: Pepito drowned
 [09Dec2024 23:26:33.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2403ms or 48 ticks behind
+[09Dec2024 23:28:01.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[09Dec2024 23:28:39.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 2.819713046548486,6.057460097963485E-7,9.993409437992284
+[09Dec2024 23:28:39.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 2.9198494167344506,6.099172153994914E-7,10.380525148413028
+[09Dec2024 23:28:39.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 3.019735988100365,6.134915651045958E-7,10.76771838323242
+[09Dec2024 23:28:39.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 3.1193903029920875,6.163249963719863E-7,11.154983263829763
+[09Dec2024 23:28:39.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 3.2188318673602225,6.183702510043076E-7,11.542313560673449
+[09Dec2024 23:28:39.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 3.3180782365598134,6.196565536242815E-7,11.929703667185095
+[09Dec2024 23:28:39.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 3.4171452113412215,6.202681035460955E-7,12.317148537444382
+[09Dec2024 23:28:39.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 3.516050731150699,6.203234050872197E-7,12.704642695075222
+[09Dec2024 23:28:39.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 3.614807221786805,6.199569853038156E-7,13.092182146387188
+[09Dec2024 23:28:39.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 3.7134258673995646,6.193043446955926E-7,13.479763293333633
+[09Dec2024 23:28:39.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 3.8119204524944053,6.184905814166086E-7,13.867381966350138
+[09Dec2024 23:28:39.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 3.9102996624924344,6.176227529408607E-7,14.255035347876628
+[09Dec2024 23:28:39.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 4.008575034906244,6.167855772787334E-7,14.642719967061282
+[09Dec2024 23:28:39.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[09Dec2024 23:29:45.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Gave 1 [Iron Axe] to Alunnaki]
+[09Dec2024 23:30:03.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! 9.656047448421305,-0.24918707874468282,-2.863796329008892
+[09Dec2024 23:30:03.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
+[09Dec2024 23:31:09.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved too quickly! -0.42415166684122596,1.252203340253729,-10.219977985139451
+[09Dec2024 23:31:09.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! 6.358220384062406,1.8409945353535022,-7.6821049229859
+[09Dec2024 23:31:09.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+[09Dec2024 23:31:11.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved too quickly! 0.5756494285035387,-0.7850277037892397,-10.25051670211974
+[09Dec2024 23:31:12.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 23:31:12.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 23:31:37.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:60959] logged in with entity id 137611 at (-5558.7595136858245, 57.16524361161331, -1459.745283909965)
+[09Dec2024 23:31:37.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 23:31:37.958] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 23:31:51.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was blown up by Night Lich
+[09Dec2024 23:31:56.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA moved too quickly! 8.625974762247552,-0.25799910351527444,5.401943399454694
+[09Dec2024 23:31:56.843] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[09Dec2024 23:32:02.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved too quickly! 3.7037894736768067,1.2491870787446828,-9.23525406272654
+[09Dec2024 23:32:07.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA moved too quickly! 7.777959693049979,-1.8338907390617862,6.157104563479493
+[09Dec2024 23:32:07.052] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -9.781721268126603,0.0,2.3409430483462756
+[09Dec2024 23:32:10.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved too quickly! -9.63542625835953,-3.464159374955443,0.16692182308622705
+[09Dec2024 23:32:10.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA moved too quickly! 7.4841566043462535,-2.766367993957516,6.219182966706512
+[09Dec2024 23:32:10.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -9.759468414076764,-0.32352912385572097,2.388202747831201
+[09Dec2024 23:32:13.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -9.703452595766066,-1.1661092609382138,2.545571312142897
+[09Dec2024 23:32:13.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA moved too quickly! -6.006605627504541,-0.756759288177264,8.187883058715897
+[09Dec2024 23:32:15.921] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA moved too quickly! 0.732882208709043,3.419999986886978,9.68413048441596
+[09Dec2024 23:32:18.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -8.708184807236648,-0.25799910351527444,-5.3883934571186956
+[09Dec2024 23:32:20.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -4.377626507845889,0.22768848754498094,-9.11737207386659
+[09Dec2024 23:32:36.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -3.1990875863348265,2.127890238205481,-9.515620819553533
+[09Dec2024 23:32:38.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 23:32:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 23:32:45.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[09Dec2024 23:32:45.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[09Dec2024 23:32:47.112] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f297806[id=<null>,name=ItsGOJIRA,properties={},legacy=false] (/127.80.199.128:59619) lost connection: Disconnected
+[09Dec2024 23:32:57.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 23:33:04.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 23:33:04.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[09Dec2024 23:33:04.210] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 62.93 seconds (should be max 0.05)
+[09Dec2024 23:33:06.285] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[09Dec2024 23:33:08.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Dec2024 23:33:08.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Dec2024 23:33:08.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Dec2024 23:33:15.098] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 81b772cb-7438-4091-a371-7df20f1a205d
+[09Dec2024 23:33:15.121] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 00b59d70-c2ad-46e0-b994-5ba4e81ea506
+[09Dec2024 23:33:15.122] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /workspaces/Server/servidor_minecraft/./crash-reports/crash-2024-12-09_23.33.15-server.txt
