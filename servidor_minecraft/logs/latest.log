@@ -916,3 +916,70 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [09Dec2024 22:54:00.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [Alex's Caves]
 [09Dec2024 22:54:07.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
 [09Dec2024 22:55:07.598] [Worker-Main-7/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Dec2024 22:57:42.255] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[09Dec2024 22:59:15.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 22:59:15.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 23:00:00.472] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:58583] logged in with entity id 83059 at (-4894.687932547721, 76.1875, -782.2585907307921)
+[09Dec2024 23:00:00.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 23:00:00.499] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 23:01:44.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[09Dec2024 23:02:34.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was slain by Man From The Fog
+[09Dec2024 23:02:37.419] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[09Dec2024 23:02:37.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[09Dec2024 23:02:57.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved too quickly! 10.456295056560975,0.0,-1.2812537213776238
+[09Dec2024 23:03:08.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved too quickly! 5.528125919754075,0.0,8.774628075971435
+[09Dec2024 23:03:08.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[09Dec2024 23:03:58.578] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[09Dec2024 23:05:05.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[09Dec2024 23:05:05.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[09Dec2024 23:05:11.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was slain by Man From The Fog
+[09Dec2024 23:05:23.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA moved too quickly! -1.2067797715490087,-15.371748888824499,-0.9213805413291993
+[09Dec2024 23:05:28.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:33513] logged in with entity id 93057 at (-4870.308076383128, 70.0, -765.03897453709)
+[09Dec2024 23:05:28.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[09Dec2024 23:05:28.637] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[09Dec2024 23:05:43.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[09Dec2024 23:06:25.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[09Dec2024 23:07:46.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Removed every effect from Alunnaki]
+[09Dec2024 23:08:48.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[09Dec2024 23:09:47.630] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[09Dec2024 23:09:47.631] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[09Dec2024 23:09:47.644] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[09Dec2024 23:09:47.644] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[09Dec2024 23:09:47.645] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[09Dec2024 23:10:14.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[09Dec2024 23:11:03.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4236ms or 84 ticks behind
+[09Dec2024 23:11:04.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[09Dec2024 23:11:11.572] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[09Dec2024 23:11:25.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[09Dec2024 23:11:31.673] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[09Dec2024 23:12:01.756] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[09Dec2024 23:13:33.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved too quickly! 8.13620117290219,0.17081290814229533,6.707448045470727
+[09Dec2024 23:13:33.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -7.997959872422143,-1.676470876144279,-5.9656909115517465
+[09Dec2024 23:13:33.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA moved too quickly! 10.17370539737567,0.0,-0.6103505336673152
+[09Dec2024 23:13:33.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6426ms or 128 ticks behind
+[09Dec2024 23:13:57.210] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[09Dec2024 23:14:28.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [A Small Price to Pay...]
+[09Dec2024 23:14:52.524] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[09Dec2024 23:15:29.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[09Dec2024 23:15:34.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[09Dec2024 23:15:39.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/MaulerEntity$Type
+[09Dec2024 23:15:54.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 9.960245772319013,0.0,2.9912773930468006
+[09Dec2024 23:15:54.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 10.343332146623197,0.0,3.1063265291360835
+[09Dec2024 23:15:54.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 10.72641852089373,0.0,3.2213756653476366
+[09Dec2024 23:15:54.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 11.109504895133341,0.0,3.3364248016692954
+[09Dec2024 23:15:54.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 11.492591269345667,0.0,3.4514739380900323
+[09Dec2024 23:15:54.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 11.875677643532981,0.0,3.5665230745998997
+[09Dec2024 23:15:54.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 12.258764017698013,0.0,3.68157221119003
+[09Dec2024 23:15:54.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 12.641850391843036,0.0,3.7966213478524082
+[09Dec2024 23:15:54.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 13.02493676596987,0.0,3.9116704845797585
+[09Dec2024 23:15:54.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 13.408023140080331,0.0,4.026719621365601
+[09Dec2024 23:15:54.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 13.791109514176242,0.0,4.141768758204137
+[09Dec2024 23:15:54.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 14.174195888258964,0.0,4.256817895090023
+[09Dec2024 23:15:54.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 14.557282262329863,0.0,4.371867032018599
+[09Dec2024 23:15:54.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 14.940368636390303,0.0,4.486916168985545
+[09Dec2024 23:15:54.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ItsGOJIRA) moved too quickly! 15.323455010441194,0.0,4.601965305987051
+[09Dec2024 23:16:20.387] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[09Dec2024 23:16:22.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[09Dec2024 23:16:30.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[09Dec2024 23:16:30.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[09Dec2024 23:16:43.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to -5611.502881, 0.000000, -1320.040007]

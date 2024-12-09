@@ -49,6 +49,7 @@
       "minecraft:sparse_jungle": "2024-12-06 21:55:33 +0000",
       "minecraft:river": "2024-12-06 20:12:12 +0000",
       "minecraft:stony_shore": "2024-12-08 02:13:02 +0000",
+      "minecraft:snowy_plains": "2024-12-09 23:13:40 +0000",
       "minecraft:dripstone_caves": "2024-12-06 22:20:32 +0000",
       "minecraft:swamp": "2024-12-09 16:54:02 +0000",
       "minecraft:cold_ocean": "2024-12-09 18:40:54 +0000",
@@ -59,6 +60,7 @@
       "minecraft:deep_frozen_ocean": "2024-12-09 18:40:37 +0000",
       "minecraft:jungle": "2024-12-06 22:41:44 +0000",
       "minecraft:ocean": "2024-12-07 01:04:15 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-09 23:09:37 +0000",
       "minecraft:flower_forest": "2024-12-06 20:08:06 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-08 02:06:06 +0000",
       "minecraft:deep_dark": "2024-12-06 23:29:30 +0000",
@@ -4075,45 +4077,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-09 22:36:51 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2024-12-09 22:11:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-09 22:40:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-09 22:42:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-09 22:36:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2024-12-09 22:36:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-09 22:40:38 +0000"
     },
     "done": true
   },
@@ -4129,9 +4095,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-09 22:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-09 22:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-09 22:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-09 22:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-09 22:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-09 22:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-12-09 22:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-09 22:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-09 22:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-09 22:57:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-09 22:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-09 22:57:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-09 22:57:43 +0000"
     },
     "done": true
   },

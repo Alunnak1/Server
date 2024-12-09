@@ -3122,5 +3122,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2024-12-09 23:14:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
