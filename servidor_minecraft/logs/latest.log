@@ -228,3 +228,26 @@
 [10Dec2024 02:17:09.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
 [10Dec2024 02:17:15.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
 [10Dec2024 02:18:46.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> q andas haciendo?
+[10Dec2024 02:19:00.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> Ordenando aldeanos
+[10Dec2024 02:19:13.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> chill de cojones
+[10Dec2024 02:19:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> t puedo llamar y llevart al lugar ese?
+[10Dec2024 02:19:17.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> polfis
+[10Dec2024 02:19:23.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> nah
+[10Dec2024 02:19:25.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> da
+[10Dec2024 02:19:27.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> estoy viendo videos
+[10Dec2024 02:19:31.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> alta paja
+[10Dec2024 02:19:35.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> bue
+[10Dec2024 02:19:56.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> o al menos puedo ir a matar los aldeanos esos? digo ayudar
+[10Dec2024 02:20:11.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> no
+[10Dec2024 02:20:29.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> suicidate
+[10Dec2024 02:21:33.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 02:22:43.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[10Dec2024 02:22:43.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 02:23:33.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:51329] logged in with entity id 142162 at (1195.375767430537, 83.0, -483.6439529823959)
+[10Dec2024 02:23:33.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 02:23:33.601] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 02:24:29.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[10Dec2024 02:24:29.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[10Dec2024 02:25:42.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
+[10Dec2024 02:25:46.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[10Dec2024 02:25:47.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
