@@ -917,3 +917,74 @@ Reason: Banned by an operator.
 [10Dec2024 17:18:27.093] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at 8915 2 -1949 in 1s
 [10Dec2024 17:20:03.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA has reached the goal [Is this THE end?]
 [10Dec2024 17:20:04.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA has made the advancement [The Tear Of The Man]
+[10Dec2024 17:20:26.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 17:20:32.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 17:21:44.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1202, y=87, z=-500} BlockPos{x=1205, y=86, z=-499}
+[10Dec2024 17:22:14.732] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[10Dec2024 17:22:14.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[10Dec2024 17:22:22.825] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@416cef99[id=<null>,name=MauricioX1,properties={},legacy=false] (/127.80.115.157:50007) lost connection: Disconnected
+[10Dec2024 17:22:23.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA was killed by Naga using magic
+[10Dec2024 17:22:29.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.80.115.157:35183] logged in with entity id 45495 at (1234.684927970521, 76.92159999847412, -482.5877111549716)
+[10Dec2024 17:22:29.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[10Dec2024 17:22:29.870] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[10Dec2024 17:22:34.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported maikolDLSA to Alunnaki]
+[10Dec2024 17:26:13.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.44046161828964614
+[10Dec2024 17:26:13.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.7670056775284593
+[10Dec2024 17:26:13.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 1.0608953230580482
+[10Dec2024 17:29:07.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA has made the advancement [Diamonds!]
+[10Dec2024 17:29:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA has reached the goal [Half a flight]
+[10Dec2024 17:29:40.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[10Dec2024 17:29:40.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 17:29:41.873] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: maikolDLSA lost connection: Disconnected
+[10Dec2024 17:29:41.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA left the game
+[10Dec2024 17:29:43.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[10Dec2024 17:29:43.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[10Dec2024 17:29:45.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:44613] logged in with entity id 50575 at (1495.9793800570965, 66.0, -1437.699999988079)
+[10Dec2024 17:29:45.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 17:29:45.109] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 17:29:48.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[10Dec2024 17:29:48.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 17:29:58.878] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:55421] logged in with entity id 50672 at (1493.4310889395679, 66.0, -1437.4771651358076)
+[10Dec2024 17:29:58.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 17:29:58.903] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 17:29:59.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.80.115.157:56909] logged in with entity id 50729 at (1498.7499753537288, 69.0, -1441.6875648707924)
+[10Dec2024 17:29:59.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[10Dec2024 17:29:59.305] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[10Dec2024 17:30:01.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[10Dec2024 17:30:01.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 17:30:03.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[10Dec2024 17:30:03.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[10Dec2024 17:30:06.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:53277] logged in with entity id 50764 at (1493.130701001226, 64.0, -1437.4130857249895)
+[10Dec2024 17:30:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 17:30:06.808] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 17:30:10.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was slain by Man From The Fog
+[10Dec2024 17:30:10.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[10Dec2024 17:30:10.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 17:30:16.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:43021] logged in with entity id 50859 at (1493.699999988079, 64.49520087700593, -1437.7410581471227)
+[10Dec2024 17:30:16.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 17:30:16.651] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 17:30:21.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.80.115.157:34877] logged in with entity id 51164 at (1500.826755465504, 71.0, -1441.4342945455376)
+[10Dec2024 17:30:21.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[10Dec2024 17:30:21.299] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[10Dec2024 17:30:26.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[10Dec2024 17:30:29.282] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: maikolDLSA[/127.223.118.204:39501] logged in with entity id 51361 at (1493.341859974095, 64.0, -1435.3751812354649)
+[10Dec2024 17:30:29.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA joined the game
+[10Dec2024 17:30:29.307] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: maikolDLSA
+[10Dec2024 17:34:00.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[10Dec2024 17:34:00.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[10Dec2024 17:34:02.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: maikolDLSA lost connection: Disconnected
+[10Dec2024 17:34:02.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA left the game
+[10Dec2024 17:34:26.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: maikolDLSA[/127.223.118.204:38749] logged in with entity id 52595 at (1484.1253053420382, 62.07326432466506, -1487.4053918149805)
+[10Dec2024 17:34:26.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA joined the game
+[10Dec2024 17:34:26.353] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: maikolDLSA
+[10Dec2024 17:36:20.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.80.115.157:36279] logged in with entity id 53287 at (938.4580522821723, 77.0, 55.427683830126476)
+[10Dec2024 17:36:20.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[10Dec2024 17:36:20.541] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[10Dec2024 17:38:42.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.4702907119303745
+[10Dec2024 17:38:42.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.5956686652061762
+[10Dec2024 17:38:42.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.857423826728791
+[10Dec2024 17:38:42.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 1.0593507268165467
+[10Dec2024 17:39:11.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA has made the advancement [The Lighthouse]
+[10Dec2024 17:39:21.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [The Lighthouse]
+[10Dec2024 17:40:12.319] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[10Dec2024 17:40:12.321] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
