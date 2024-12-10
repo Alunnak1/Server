@@ -3458,3 +3458,522 @@ Caused by: java.io.IOException: Invalid tag id: 101
 [10Dec2024 21:11:50.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116472 chunks (29.63%), ETA: 10:56:01, Rate: 7.0 cps, Current: -36, 170
 [10Dec2024 21:11:53.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116490 chunks (29.63%), ETA: 12:23:58, Rate: 6.2 cps, Current: -37, 174
 [10Dec2024 21:11:55.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116504 chunks (29.64%), ETA: 11:35:34, Rate: 6.6 cps, Current: -40, 173
+[10Dec2024 21:11:56.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116535 chunks (29.64%), ETA: 9:40:35, Rate: 7.9 cps, Current: -46, 172
+[10Dec2024 21:11:59.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
+[10Dec2024 21:11:59.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116560 chunks (29.65%), ETA: 9:29:53, Rate: 8.1 cps, Current: -40, 169
+[10Dec2024 21:12:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116569 chunks (29.65%), ETA: 9:31:02, Rate: 8.1 cps, Current: -42, 168
+[10Dec2024 21:12:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116572 chunks (29.65%), ETA: 9:43:47, Rate: 7.9 cps, Current: -42, 165
+[10Dec2024 21:12:06.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116625 chunks (29.67%), ETA: 8:17:10, Rate: 9.3 cps, Current: -44, 162
+[10Dec2024 21:12:09.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116651 chunks (29.67%), ETA: 8:22:30, Rate: 9.2 cps, Current: -39, 168
+[10Dec2024 21:12:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116671 chunks (29.68%), ETA: 9:14:25, Rate: 8.3 cps, Current: -37, 166
+[10Dec2024 21:12:15.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116689 chunks (29.68%), ETA: 9:06:19, Rate: 8.4 cps, Current: -35, 166
+[10Dec2024 21:12:18.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116710 chunks (29.69%), ETA: 9:04:07, Rate: 8.5 cps, Current: -31, 161
+[10Dec2024 21:12:20.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116726 chunks (29.69%), ETA: 8:58:17, Rate: 8.6 cps, Current: -29, 160
+[10Dec2024 21:12:23.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3023ms or 60 ticks behind
+[10Dec2024 21:12:23.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116732 chunks (29.69%), ETA: 9:24:24, Rate: 8.2 cps, Current: -30, 165
+[10Dec2024 21:12:25.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116733 chunks (29.69%), ETA: 10:00:27, Rate: 7.7 cps, Current: -29, 164
+[10Dec2024 21:12:28.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116764 chunks (29.70%), ETA: 10:31:54, Rate: 7.3 cps, Current: -24, 161
+[10Dec2024 21:12:30.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116773 chunks (29.70%), ETA: 10:57:50, Rate: 7.0 cps, Current: -21, 160
+[10Dec2024 21:12:32.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116782 chunks (29.71%), ETA: 10:39:46, Rate: 7.2 cps, Current: -21, 162
+[10Dec2024 21:12:35.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116794 chunks (29.71%), ETA: 12:50:42, Rate: 6.0 cps, Current: -33, 174
+[10Dec2024 21:12:37.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116808 chunks (29.71%), ETA: 13:28:12, Rate: 5.7 cps, Current: -33, 186
+[10Dec2024 21:12:39.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116811 chunks (29.71%), ETA: 14:15:48, Rate: 5.4 cps, Current: -24, 163
+[10Dec2024 21:12:41.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116835 chunks (29.72%), ETA: 13:06:20, Rate: 5.9 cps, Current: -23, 165
+[10Dec2024 21:12:42.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116854 chunks (29.72%), ETA: 12:13:45, Rate: 6.3 cps, Current: -19, 165
+[10Dec2024 21:12:43.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116866 chunks (29.73%), ETA: 11:57:04, Rate: 6.4 cps, Current: -19, 171
+[10Dec2024 21:12:45.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116883 chunks (29.73%), ETA: 12:16:50, Rate: 6.2 cps, Current: -22, 172
+[10Dec2024 21:12:46.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116904 chunks (29.74%), ETA: 11:21:11, Rate: 6.8 cps, Current: -26, 168
+[10Dec2024 21:12:47.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116955 chunks (29.75%), ETA: 9:20:52, Rate: 8.2 cps, Current: -25, 174
+[10Dec2024 21:12:49.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116980 chunks (29.76%), ETA: 8:33:18, Rate: 9.0 cps, Current: -32, 178
+[10Dec2024 21:12:50.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 116995 chunks (29.76%), ETA: 8:22:32, Rate: 9.2 cps, Current: -28, 180
+[10Dec2024 21:12:51.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117026 chunks (29.77%), ETA: 7:05:49, Rate: 10.8 cps, Current: -30, 185
+[10Dec2024 21:12:52.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117044 chunks (29.77%), ETA: 6:57:42, Rate: 11.0 cps, Current: -29, 187
+[10Dec2024 21:12:54.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117050 chunks (29.77%), ETA: 6:53:11, Rate: 11.1 cps, Current: -29, 188
+[10Dec2024 21:12:55.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117077 chunks (29.78%), ETA: 6:35:18, Rate: 11.6 cps, Current: -25, 183
+[10Dec2024 21:12:57.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117080 chunks (29.78%), ETA: 7:04:36, Rate: 10.8 cps, Current: -25, 182
+[10Dec2024 21:12:59.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117091 chunks (29.78%), ETA: 7:05:21, Rate: 10.8 cps, Current: -24, 185
+[10Dec2024 21:13:02.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117100 chunks (29.79%), ETA: 7:05:18, Rate: 10.8 cps, Current: -24, 187
+[10Dec2024 21:13:04.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117113 chunks (29.79%), ETA: 7:04:39, Rate: 10.8 cps, Current: -21, 187
+[10Dec2024 21:13:07.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117123 chunks (29.79%), ETA: 7:13:03, Rate: 10.6 cps, Current: -19, 189
+[10Dec2024 21:13:09.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117134 chunks (29.80%), ETA: 7:03:35, Rate: 10.9 cps, Current: -22, 190
+[10Dec2024 21:13:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117139 chunks (29.80%), ETA: 7:59:04, Rate: 9.6 cps, Current: -19, 190
+[10Dec2024 21:13:14.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117143 chunks (29.80%), ETA: 8:25:02, Rate: 9.1 cps, Current: -18, 184
+[10Dec2024 21:13:16.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117177 chunks (29.81%), ETA: 9:56:38, Rate: 7.7 cps, Current: -17, 162
+[10Dec2024 21:13:19.431] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[10Dec2024 21:13:19.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117210 chunks (29.81%), ETA: 10:26:12, Rate: 7.3 cps, Current: -17, 175
+[10Dec2024 21:13:22.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117220 chunks (29.82%), ETA: 12:31:18, Rate: 6.1 cps, Current: -16, 177
+[10Dec2024 21:13:23.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117230 chunks (29.82%), ETA: 12:16:02, Rate: 6.2 cps, Current: -10, 177
+[10Dec2024 21:13:24.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117247 chunks (29.82%), ETA: 12:59:11, Rate: 5.9 cps, Current: -11, 181
+[10Dec2024 21:13:25.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117278 chunks (29.83%), ETA: 10:50:47, Rate: 7.1 cps, Current: -17, 185
+[10Dec2024 21:13:28.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117298 chunks (29.84%), ETA: 10:28:46, Rate: 7.3 cps, Current: -14, 187
+[10Dec2024 21:13:30.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117313 chunks (29.84%), ETA: 10:13:04, Rate: 7.5 cps, Current: -11, 189
+[10Dec2024 21:13:36.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117335 chunks (29.85%), ETA: 10:21:57, Rate: 7.4 cps, Current: -28, 191
+[10Dec2024 21:13:38.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117346 chunks (29.85%), ETA: 10:25:50, Rate: 7.3 cps, Current: -25, 191
+[10Dec2024 21:13:41.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117359 chunks (29.85%), ETA: 10:05:40, Rate: 7.6 cps, Current: -7, 190
+[10Dec2024 21:13:43.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117366 chunks (29.85%), ETA: 9:54:46, Rate: 7.7 cps, Current: -22, 191
+[10Dec2024 21:13:45.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117371 chunks (29.86%), ETA: 11:23:57, Rate: 6.7 cps, Current: -20, 191
+[10Dec2024 21:13:48.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117378 chunks (29.86%), ETA: 13:01:33, Rate: 5.9 cps, Current: -15, 176
+[10Dec2024 21:13:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117404 chunks (29.86%), ETA: 11:45:40, Rate: 6.5 cps, Current: -3, 184
+[10Dec2024 21:13:50.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117432 chunks (29.87%), ETA: 10:10:00, Rate: 7.5 cps, Current: -9, 179
+[10Dec2024 21:13:51.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117455 chunks (29.88%), ETA: 9:30:10, Rate: 8.1 cps, Current: -3, 178
+[10Dec2024 21:13:53.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[10Dec2024 21:13:53.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117456 chunks (29.88%), ETA: 10:42:32, Rate: 7.2 cps, Current: -3, 177
+[10Dec2024 21:13:56.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117465 chunks (29.88%), ETA: 12:48:08, Rate: 6.0 cps, Current: -3, 176
+[10Dec2024 21:13:58.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117472 chunks (29.88%), ETA: 13:21:35, Rate: 5.7 cps, Current: -4, 175
+[10Dec2024 21:13:59.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117481 chunks (29.88%), ETA: 13:11:02, Rate: 5.8 cps, Current: -2, 172
+[10Dec2024 21:14:02.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117487 chunks (29.89%), ETA: 13:02:18, Rate: 5.9 cps, Current: -14, 191
+[10Dec2024 21:14:04.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117496 chunks (29.89%), ETA: 13:33:52, Rate: 5.6 cps, Current: -4, 170
+[10Dec2024 21:14:07.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117507 chunks (29.89%), ETA: 13:32:24, Rate: 5.7 cps, Current: -7, 172
+[10Dec2024 21:14:09.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117525 chunks (29.89%), ETA: 13:07:23, Rate: 5.8 cps, Current: -8, 175
+[10Dec2024 21:14:12.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117565 chunks (29.90%), ETA: 11:04:42, Rate: 6.9 cps, Current: -11, 172
+[10Dec2024 21:14:13.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117594 chunks (29.91%), ETA: 9:29:01, Rate: 8.1 cps, Current: -10, 168
+[10Dec2024 21:14:16.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117626 chunks (29.92%), ETA: 8:37:11, Rate: 8.9 cps, Current: -11, 164
+[10Dec2024 21:14:18.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117670 chunks (29.93%), ETA: 8:23:33, Rate: 9.1 cps, Current: -8, 168
+[10Dec2024 21:14:21.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117690 chunks (29.94%), ETA: 9:37:32, Rate: 7.9 cps, Current: -6, 165
+[10Dec2024 21:14:23.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117711 chunks (29.94%), ETA: 8:56:14, Rate: 8.6 cps, Current: -4, 162
+[10Dec2024 21:14:25.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117730 chunks (29.95%), ETA: 8:30:17, Rate: 9.0 cps, Current: -1, 160
+[10Dec2024 21:14:28.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117744 chunks (29.95%), ETA: 8:17:36, Rate: 9.2 cps, Current: 0, 164
+[10Dec2024 21:14:30.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117753 chunks (29.95%), ETA: 8:12:34, Rate: 9.3 cps, Current: 3, 163
+[10Dec2024 21:14:33.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117762 chunks (29.96%), ETA: 8:09:28, Rate: 9.4 cps, Current: 4, 164
+[10Dec2024 21:14:35.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117780 chunks (29.96%), ETA: 7:57:24, Rate: 9.6 cps, Current: 6, 161
+[10Dec2024 21:14:38.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117792 chunks (29.96%), ETA: 8:06:39, Rate: 9.4 cps, Current: 7, 162
+[10Dec2024 21:14:40.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[10Dec2024 21:14:47.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117797 chunks (29.96%), ETA: 17:02:01, Rate: 4.5 cps, Current: 10, 162
+[10Dec2024 21:14:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117801 chunks (29.96%), ETA: 19:17:19, Rate: 4.0 cps, Current: 13, 160
+[10Dec2024 21:14:52.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117812 chunks (29.97%), ETA: 21:19:00, Rate: 3.6 cps, Current: 11, 163
+[10Dec2024 21:14:54.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117821 chunks (29.97%), ETA: 23:41:34, Rate: 3.2 cps, Current: 14, 163
+[10Dec2024 21:14:56.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117829 chunks (29.97%), ETA: 25:08:55, Rate: 3.0 cps, Current: 11, 164
+[10Dec2024 21:14:58.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117846 chunks (29.98%), ETA: 22:51:32, Rate: 3.3 cps, Current: -1, 170
+[10Dec2024 21:15:01.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117856 chunks (29.98%), ETA: 22:35:21, Rate: 3.4 cps, Current: -1, 180
+[10Dec2024 21:15:03.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[10Dec2024 21:15:05.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117866 chunks (29.98%), ETA: 26:18:23, Rate: 2.9 cps, Current: 0, 167
+[10Dec2024 21:15:06.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117881 chunks (29.99%), ETA: 24:26:36, Rate: 3.1 cps, Current: 9, 169
+[10Dec2024 21:15:07.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117895 chunks (29.99%), ETA: 21:56:34, Rate: 3.5 cps, Current: 12, 168
+[10Dec2024 21:15:09.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117897 chunks (29.99%), ETA: 17:09:26, Rate: 4.5 cps, Current: 12, 170
+[10Dec2024 21:15:11.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117916 chunks (29.99%), ETA: 15:25:47, Rate: 5.0 cps, Current: 5, 173
+[10Dec2024 21:15:12.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117957 chunks (30.00%), ETA: 11:58:43, Rate: 6.4 cps, Current: 0, 171
+[10Dec2024 21:15:13.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 117995 chunks (30.01%), ETA: 10:06:37, Rate: 7.6 cps, Current: 4, 175
+[10Dec2024 21:15:14.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118016 chunks (30.02%), ETA: 9:32:00, Rate: 8.0 cps, Current: 5, 180
+[10Dec2024 21:15:15.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118044 chunks (30.03%), ETA: 8:46:51, Rate: 8.7 cps, Current: 1, 183
+[10Dec2024 21:15:17.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118047 chunks (30.03%), ETA: 8:45:10, Rate: 8.7 cps, Current: 0, 185
+[10Dec2024 21:15:20.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Dec2024 21:15:20.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118065 chunks (30.03%), ETA: 8:36:34, Rate: 8.9 cps, Current: 2, 189
+[10Dec2024 21:15:23.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118079 chunks (30.04%), ETA: 8:30:27, Rate: 9.0 cps, Current: 5, 189
+[10Dec2024 21:15:25.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118102 chunks (30.04%), ETA: 8:06:55, Rate: 9.4 cps, Current: 7, 175
+[10Dec2024 21:15:28.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118112 chunks (30.04%), ETA: 8:20:56, Rate: 9.2 cps, Current: 7, 184
+[10Dec2024 21:15:30.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118123 chunks (30.05%), ETA: 8:20:04, Rate: 9.2 cps, Current: 10, 175
+[10Dec2024 21:15:33.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118135 chunks (30.05%), ETA: 7:45:01, Rate: 9.9 cps, Current: 10, 187
+[10Dec2024 21:15:35.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118143 chunks (30.05%), ETA: 8:12:04, Rate: 9.3 cps, Current: 12, 175
+[10Dec2024 21:15:37.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118151 chunks (30.05%), ETA: 8:25:07, Rate: 9.1 cps, Current: 13, 188
+[10Dec2024 21:15:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118162 chunks (30.06%), ETA: 8:57:23, Rate: 8.5 cps, Current: 10, 190
+[10Dec2024 21:15:42.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118167 chunks (30.06%), ETA: 12:56:19, Rate: 5.9 cps, Current: 14, 180
+[10Dec2024 21:15:45.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118178 chunks (30.06%), ETA: 16:39:19, Rate: 4.6 cps, Current: 13, 180
+[10Dec2024 21:15:47.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118231 chunks (30.07%), ETA: 12:16:48, Rate: 6.2 cps, Current: 15, 165
+[10Dec2024 21:15:49.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118237 chunks (30.08%), ETA: 12:51:09, Rate: 5.9 cps, Current: 15, 170
+[10Dec2024 21:15:52.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118244 chunks (30.08%), ETA: 13:23:01, Rate: 5.7 cps, Current: 16, 177
+[10Dec2024 21:15:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118254 chunks (30.08%), ETA: 13:48:20, Rate: 5.5 cps, Current: 22, 177
+[10Dec2024 21:15:54.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118274 chunks (30.09%), ETA: 12:39:04, Rate: 6.0 cps, Current: 22, 181
+[10Dec2024 21:15:56.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118295 chunks (30.09%), ETA: 11:57:28, Rate: 6.4 cps, Current: 15, 184
+[10Dec2024 21:15:59.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118314 chunks (30.10%), ETA: 11:31:39, Rate: 6.6 cps, Current: 15, 189
+[10Dec2024 21:16:02.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118329 chunks (30.10%), ETA: 11:23:04, Rate: 6.7 cps, Current: 19, 188
+[10Dec2024 21:16:04.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118344 chunks (30.10%), ETA: 10:59:16, Rate: 6.9 cps, Current: 22, 183
+[10Dec2024 21:16:07.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118358 chunks (30.11%), ETA: 10:50:50, Rate: 7.0 cps, Current: 3, 191
+[10Dec2024 21:16:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118361 chunks (30.11%), ETA: 11:10:30, Rate: 6.8 cps, Current: 23, 185
+[10Dec2024 21:16:12.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118374 chunks (30.11%), ETA: 10:42:59, Rate: 7.1 cps, Current: 23, 188
+[10Dec2024 21:16:14.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118388 chunks (30.11%), ETA: 10:42:40, Rate: 7.1 cps, Current: 26, 190
+[10Dec2024 21:16:17.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118395 chunks (30.12%), ETA: 13:21:47, Rate: 5.7 cps, Current: 12, 191
+[10Dec2024 21:16:19.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118398 chunks (30.12%), ETA: 14:07:23, Rate: 5.4 cps, Current: 29, 190
+[10Dec2024 21:16:22.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118410 chunks (30.12%), ETA: 13:33:08, Rate: 5.6 cps, Current: 29, 187
+[10Dec2024 21:16:23.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118429 chunks (30.12%), ETA: 12:54:09, Rate: 5.9 cps, Current: 28, 182
+[10Dec2024 21:16:26.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118458 chunks (30.13%), ETA: 13:31:27, Rate: 5.6 cps, Current: 24, 179
+[10Dec2024 21:16:28.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118480 chunks (30.14%), ETA: 13:21:44, Rate: 5.7 cps, Current: 30, 179
+[10Dec2024 21:16:31.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118487 chunks (30.14%), ETA: 14:01:11, Rate: 5.4 cps, Current: 20, 176
+[10Dec2024 21:16:31.483] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-249, y=27, z=-561}
+[10Dec2024 21:16:33.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118495 chunks (30.14%), ETA: 14:40:09, Rate: 5.2 cps, Current: 28, 176
+[10Dec2024 21:16:36.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118504 chunks (30.14%), ETA: 15:08:50, Rate: 5.0 cps, Current: 30, 173
+[10Dec2024 21:16:39.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Dec2024 21:16:39.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118511 chunks (30.15%), ETA: 14:59:56, Rate: 5.1 cps, Current: 29, 172
+[10Dec2024 21:16:39.610] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[10Dec2024 21:16:39.610] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[10Dec2024 21:16:41.902] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[10Dec2024 21:16:41.903] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[10Dec2024 21:16:41.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118518 chunks (30.15%), ETA: 15:43:42, Rate: 4.8 cps, Current: 28, 171
+[10Dec2024 21:16:44.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118524 chunks (30.15%), ETA: 16:35:55, Rate: 4.6 cps, Current: 26, 170
+[10Dec2024 21:16:44.839] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[10Dec2024 21:16:44.877] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=27, z=-610}
+[10Dec2024 21:16:44.898] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[10Dec2024 21:16:46.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118530 chunks (30.15%), ETA: 16:22:42, Rate: 4.7 cps, Current: 25, 173
+[10Dec2024 21:16:49.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118546 chunks (30.15%), ETA: 15:01:01, Rate: 5.1 cps, Current: 22, 191
+[10Dec2024 21:16:51.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118552 chunks (30.16%), ETA: 15:42:56, Rate: 4.9 cps, Current: 26, 191
+[10Dec2024 21:16:51.567] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-612}
+[10Dec2024 21:16:51.567] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[10Dec2024 21:16:51.567] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-612}
+[10Dec2024 21:16:51.567] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[10Dec2024 21:16:51.568] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-607}
+[10Dec2024 21:16:51.568] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-607}
+[10Dec2024 21:16:51.568] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[10Dec2024 21:16:51.568] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-612}
+[10Dec2024 21:16:51.568] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[10Dec2024 21:16:51.568] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-607}
+[10Dec2024 21:16:51.610] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-615}
+[10Dec2024 21:16:51.611] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-609}
+[10Dec2024 21:16:51.612] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-609}
+[10Dec2024 21:16:51.612] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-366, y=26, z=-613}
+[10Dec2024 21:16:51.613] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-613}
+[10Dec2024 21:16:51.613] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-613}
+[10Dec2024 21:16:51.614] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-614}
+[10Dec2024 21:16:51.614] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-615}
+[10Dec2024 21:16:51.614] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-616}
+[10Dec2024 21:16:51.615] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-615}
+[10Dec2024 21:16:51.615] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-614}
+[10Dec2024 21:16:51.616] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-365, y=26, z=-607}
+[10Dec2024 21:16:51.617] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=26, z=-606}
+[10Dec2024 21:16:51.617] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-606}
+[10Dec2024 21:16:54.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118578 chunks (30.16%), ETA: 17:45:56, Rate: 4.3 cps, Current: 27, 191
+[10Dec2024 21:16:54.417] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-630}
+[10Dec2024 21:16:54.417] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-631}
+[10Dec2024 21:16:54.417] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-631}
+[10Dec2024 21:16:54.417] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-629}
+[10Dec2024 21:16:54.417] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-626}
+[10Dec2024 21:16:54.417] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-628}
+[10Dec2024 21:16:54.418] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-626}
+[10Dec2024 21:16:54.418] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-364, y=26, z=-623}
+[10Dec2024 21:16:54.418] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-622}
+[10Dec2024 21:16:54.418] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-362, y=26, z=-623}
+[10Dec2024 21:16:54.418] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=26, z=-622}
+[10Dec2024 21:16:54.418] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-622}
+[10Dec2024 21:16:54.418] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-620}
+[10Dec2024 21:16:54.418] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=26, z=-620}
+[10Dec2024 21:16:56.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118591 chunks (30.17%), ETA: 18:57:02, Rate: 4.0 cps, Current: 16, 171
+[10Dec2024 21:16:56.967] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=26, z=-592}
+[10Dec2024 21:16:56.967] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=27, z=-592}
+[10Dec2024 21:16:56.968] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[10Dec2024 21:16:59.059] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=27, z=-586}
+[10Dec2024 21:16:59.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118608 chunks (30.17%), ETA: 17:17:08, Rate: 4.4 cps, Current: 17, 169
+[10Dec2024 21:16:59.114] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-257, y=27, z=-591}
+[10Dec2024 21:16:59.114] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-253, y=27, z=-591}
+[10Dec2024 21:16:59.127] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[10Dec2024 21:17:01.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118618 chunks (30.17%), ETA: 17:14:19, Rate: 4.4 cps, Current: 21, 165
+[10Dec2024 21:17:03.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118623 chunks (30.17%), ETA: 17:43:09, Rate: 4.3 cps, Current: 17, 168
+[10Dec2024 21:17:06.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118648 chunks (30.18%), ETA: 15:30:38, Rate: 4.9 cps, Current: 16, 164
+[10Dec2024 21:17:08.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118682 chunks (30.19%), ETA: 12:55:28, Rate: 5.9 cps, Current: 23, 168
+[10Dec2024 21:17:10.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118704 chunks (30.19%), ETA: 11:50:37, Rate: 6.4 cps, Current: 25, 166
+[10Dec2024 21:17:13.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118722 chunks (30.20%), ETA: 11:01:22, Rate: 6.9 cps, Current: 28, 168
+[10Dec2024 21:17:15.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118738 chunks (30.20%), ETA: 10:31:40, Rate: 7.2 cps, Current: 29, 166
+[10Dec2024 21:17:17.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118754 chunks (30.21%), ETA: 10:31:31, Rate: 7.2 cps, Current: 31, 160
+[10Dec2024 21:17:20.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118766 chunks (30.21%), ETA: 10:15:15, Rate: 7.4 cps, Current: 32, 163
+[10Dec2024 21:17:22.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118776 chunks (30.21%), ETA: 10:57:27, Rate: 7.0 cps, Current: 34, 164
+[10Dec2024 21:17:25.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10Dec2024 21:17:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118784 chunks (30.22%), ETA: 11:16:50, Rate: 6.8 cps, Current: 37, 165
+[10Dec2024 21:17:27.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118801 chunks (30.22%), ETA: 11:15:36, Rate: 6.8 cps, Current: 36, 166
+[10Dec2024 21:17:30.124] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[10Dec2024 21:17:30.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118810 chunks (30.22%), ETA: 11:08:44, Rate: 6.8 cps, Current: 39, 160
+[10Dec2024 21:17:32.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118819 chunks (30.22%), ETA: 11:04:37, Rate: 6.9 cps, Current: 42, 161
+[10Dec2024 21:17:34.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118826 chunks (30.23%), ETA: 12:09:58, Rate: 6.3 cps, Current: 43, 161
+[10Dec2024 21:17:37.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118838 chunks (30.23%), ETA: 13:55:39, Rate: 5.5 cps, Current: 31, 170
+[10Dec2024 21:17:39.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118847 chunks (30.23%), ETA: 15:06:50, Rate: 5.0 cps, Current: 31, 179
+[10Dec2024 21:17:41.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118855 chunks (30.23%), ETA: 16:12:49, Rate: 4.7 cps, Current: 31, 184
+[10Dec2024 21:17:47.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118859 chunks (30.23%), ETA: 20:56:02, Rate: 3.6 cps, Current: 43, 163
+[10Dec2024 21:17:48.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118877 chunks (30.24%), ETA: 18:49:41, Rate: 4.0 cps, Current: 39, 165
+[10Dec2024 21:17:49.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118896 chunks (30.24%), ETA: 16:42:29, Rate: 4.6 cps, Current: 43, 167
+[10Dec2024 21:17:51.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118906 chunks (30.25%), ETA: 16:53:59, Rate: 4.5 cps, Current: 45, 167
+[10Dec2024 21:17:52.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118913 chunks (30.25%), ETA: 16:06:00, Rate: 4.7 cps, Current: 46, 166
+[10Dec2024 21:17:54.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118932 chunks (30.25%), ETA: 14:36:10, Rate: 5.2 cps, Current: 41, 171
+[10Dec2024 21:17:55.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118942 chunks (30.26%), ETA: 14:10:05, Rate: 5.4 cps, Current: 39, 173
+[10Dec2024 21:17:56.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 118989 chunks (30.27%), ETA: 11:23:52, Rate: 6.7 cps, Current: 34, 172
+[10Dec2024 21:17:57.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119020 chunks (30.28%), ETA: 10:09:37, Rate: 7.5 cps, Current: 34, 176
+[10Dec2024 21:17:58.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119040 chunks (30.28%), ETA: 9:21:18, Rate: 8.1 cps, Current: 37, 181
+[10Dec2024 21:18:00.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119043 chunks (30.28%), ETA: 9:30:20, Rate: 8.0 cps, Current: 36, 180
+[10Dec2024 21:18:01.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119081 chunks (30.29%), ETA: 8:27:27, Rate: 9.0 cps, Current: 32, 189
+[10Dec2024 21:18:03.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119086 chunks (30.29%), ETA: 8:26:54, Rate: 9.0 cps, Current: 33, 190
+[10Dec2024 21:18:06.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119100 chunks (30.30%), ETA: 8:26:33, Rate: 9.0 cps, Current: 36, 189
+[10Dec2024 21:18:08.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119114 chunks (30.30%), ETA: 8:18:51, Rate: 9.2 cps, Current: 37, 185
+[10Dec2024 21:18:11.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119133 chunks (30.30%), ETA: 8:05:19, Rate: 9.4 cps, Current: 40, 175
+[10Dec2024 21:18:11.738] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[10Dec2024 21:18:11.739] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[10Dec2024 21:18:11.746] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[10Dec2024 21:18:13.787] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[10Dec2024 21:18:13.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[10Dec2024 21:18:13.923] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[10Dec2024 21:18:13.924] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[10Dec2024 21:18:13.924] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[10Dec2024 21:18:13.933] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[10Dec2024 21:18:13.933] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[10Dec2024 21:18:13.933] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[10Dec2024 21:18:13.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119137 chunks (30.30%), ETA: 7:19:49, Rate: 10.4 cps, Current: 39, 185
+[10Dec2024 21:18:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119143 chunks (30.31%), ETA: 7:51:44, Rate: 9.7 cps, Current: 42, 175
+[10Dec2024 21:18:18.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119155 chunks (30.31%), ETA: 8:41:53, Rate: 8.7 cps, Current: 42, 185
+[10Dec2024 21:18:21.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119161 chunks (30.31%), ETA: 8:45:10, Rate: 8.7 cps, Current: 43, 187
+[10Dec2024 21:18:23.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119169 chunks (30.31%), ETA: 9:27:45, Rate: 8.0 cps, Current: 44, 189
+[10Dec2024 21:18:26.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119179 chunks (30.32%), ETA: 13:49:31, Rate: 5.5 cps, Current: 44, 185
+[10Dec2024 21:18:28.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119187 chunks (30.32%), ETA: 14:47:11, Rate: 5.1 cps, Current: 45, 190
+[10Dec2024 21:18:31.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119189 chunks (30.32%), ETA: 20:35:22, Rate: 3.7 cps, Current: 46, 182
+[10Dec2024 21:18:33.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119199 chunks (30.32%), ETA: 19:54:23, Rate: 3.8 cps, Current: 45, 183
+[10Dec2024 21:18:35.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119238 chunks (30.33%), ETA: 16:07:58, Rate: 4.7 cps, Current: 43, 177
+[10Dec2024 21:18:36.323] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-308}
+[10Dec2024 21:18:36.323] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=27, z=-308}
+[10Dec2024 21:18:36.331] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-305}
+[10Dec2024 21:18:36.331] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=32, z=-306}
+[10Dec2024 21:18:36.331] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-389, y=27, z=-304}
+[10Dec2024 21:18:38.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119257 chunks (30.34%), ETA: 15:35:22, Rate: 4.9 cps, Current: 47, 174
+[10Dec2024 21:18:41.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119267 chunks (30.34%), ETA: 16:37:05, Rate: 4.6 cps, Current: 47, 177
+[10Dec2024 21:18:42.317] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-337}
+[10Dec2024 21:18:42.318] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=27, z=-337}
+[10Dec2024 21:18:42.318] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-336}
+[10Dec2024 21:18:42.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119271 chunks (30.34%), ETA: 16:00:35, Rate: 4.8 cps, Current: 49, 178
+[10Dec2024 21:18:42.599] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=31, z=-408}
+[10Dec2024 21:18:42.621] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-339}
+[10Dec2024 21:18:42.622] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
+[10Dec2024 21:18:42.623] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
+[10Dec2024 21:18:42.623] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-332}
+[10Dec2024 21:18:42.624] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-333}
+[10Dec2024 21:18:42.624] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-334}
+[10Dec2024 21:18:42.624] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-335}
+[10Dec2024 21:18:42.625] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-336}
+[10Dec2024 21:18:45.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119274 chunks (30.34%), ETA: 16:27:48, Rate: 4.6 cps, Current: 50, 177
+[10Dec2024 21:18:45.098] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-420}
+[10Dec2024 21:18:45.098] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[10Dec2024 21:18:47.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119291 chunks (30.34%), ETA: 16:07:39, Rate: 4.7 cps, Current: 47, 180
+[10Dec2024 21:18:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119304 chunks (30.35%), ETA: 15:23:27, Rate: 4.9 cps, Current: 49, 181
+[10Dec2024 21:18:52.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119322 chunks (30.35%), ETA: 14:30:06, Rate: 5.2 cps, Current: 33, 191
+[10Dec2024 21:18:55.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119339 chunks (30.36%), ETA: 13:53:40, Rate: 5.5 cps, Current: 48, 189
+[10Dec2024 21:18:58.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119353 chunks (30.36%), ETA: 13:20:40, Rate: 5.7 cps, Current: 51, 188
+[10Dec2024 21:19:00.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119360 chunks (30.36%), ETA: 12:59:20, Rate: 5.9 cps, Current: 53, 189
+[10Dec2024 21:19:03.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119382 chunks (30.37%), ETA: 12:09:59, Rate: 6.3 cps, Current: 35, 191
+[10Dec2024 21:19:05.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119383 chunks (30.37%), ETA: 15:33:34, Rate: 4.9 cps, Current: 36, 191
+[10Dec2024 21:19:07.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119389 chunks (30.37%), ETA: 16:55:18, Rate: 4.5 cps, Current: 57, 185
+[10Dec2024 21:19:10.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119403 chunks (30.37%), ETA: 16:24:04, Rate: 4.6 cps, Current: 56, 190
+[10Dec2024 21:19:13.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119413 chunks (30.38%), ETA: 15:22:23, Rate: 4.9 cps, Current: 59, 189
+[10Dec2024 21:19:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119417 chunks (30.38%), ETA: 16:31:45, Rate: 4.6 cps, Current: 60, 189
+[10Dec2024 21:19:17.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119420 chunks (30.38%), ETA: 17:51:45, Rate: 4.3 cps, Current: 61, 190
+[10Dec2024 21:19:20.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119428 chunks (30.38%), ETA: 18:12:08, Rate: 4.2 cps, Current: 60, 188
+[10Dec2024 21:19:22.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119441 chunks (30.38%), ETA: 18:57:40, Rate: 4.0 cps, Current: 61, 185
+[10Dec2024 21:19:25.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119451 chunks (30.38%), ETA: 20:04:01, Rate: 3.8 cps, Current: 61, 184
+[10Dec2024 21:19:28.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119470 chunks (30.39%), ETA: 19:18:38, Rate: 3.9 cps, Current: 62, 181
+[10Dec2024 21:19:28.314] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-337}
+[10Dec2024 21:19:28.314] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=27, z=-337}
+[10Dec2024 21:19:28.314] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=26, z=-336}
+[10Dec2024 21:19:30.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119479 chunks (30.39%), ETA: 18:55:29, Rate: 4.0 cps, Current: 49, 176
+[10Dec2024 21:19:33.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119493 chunks (30.40%), ETA: 18:41:51, Rate: 4.1 cps, Current: 58, 178
+[10Dec2024 21:19:35.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119507 chunks (30.40%), ETA: 18:02:05, Rate: 4.2 cps, Current: 62, 179
+[10Dec2024 21:19:35.576] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-417}
+[10Dec2024 21:19:35.578] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=26, z=-415}
+[10Dec2024 21:19:38.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119513 chunks (30.40%), ETA: 18:47:22, Rate: 4.0 cps, Current: 61, 176
+[10Dec2024 21:19:40.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119520 chunks (30.40%), ETA: 19:05:12, Rate: 4.0 cps, Current: 60, 175
+[10Dec2024 21:19:42.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119525 chunks (30.40%), ETA: 19:45:41, Rate: 3.8 cps, Current: 61, 174
+[10Dec2024 21:19:45.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119529 chunks (30.40%), ETA: 20:03:04, Rate: 3.8 cps, Current: 62, 172
+[10Dec2024 21:19:47.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119537 chunks (30.41%), ETA: 19:04:45, Rate: 4.0 cps, Current: 61, 171
+[10Dec2024 21:19:49.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119542 chunks (30.41%), ETA: 19:28:22, Rate: 3.9 cps, Current: 60, 170
+[10Dec2024 21:19:52.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119550 chunks (30.41%), ETA: 20:23:21, Rate: 3.7 cps, Current: 58, 170
+[10Dec2024 21:19:52.730] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=30, z=-358}
+[10Dec2024 21:19:52.731] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-361}
+[10Dec2024 21:19:54.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119559 chunks (30.41%), ETA: 20:26:07, Rate: 3.7 cps, Current: 59, 172
+[10Dec2024 21:19:55.092] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-417}
+[10Dec2024 21:19:55.092] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=26, z=-415}
+[10Dec2024 21:19:57.174] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=32, z=-305}
+[10Dec2024 21:19:57.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119574 chunks (30.42%), ETA: 21:06:49, Rate: 3.6 cps, Current: 56, 174
+[10Dec2024 21:19:57.333] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-314}
+[10Dec2024 21:19:57.334] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-315}
+[10Dec2024 21:19:57.334] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-314}
+[10Dec2024 21:19:57.334] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-309}
+[10Dec2024 21:19:59.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119581 chunks (30.42%), ETA: 21:25:51, Rate: 3.5 cps, Current: 54, 174
+[10Dec2024 21:19:59.520] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-337}
+[10Dec2024 21:19:59.520] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=30, z=-329}
+[10Dec2024 21:19:59.520] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-335}
+[10Dec2024 21:19:59.520] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-348, y=36, z=-334}
+[10Dec2024 21:19:59.549] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-343, y=30, z=-333}
+[10Dec2024 21:19:59.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=26, z=-339}
+[10Dec2024 21:19:59.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-226, y=31, z=-338}
+[10Dec2024 21:19:59.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-227, y=31, z=-338}
+[10Dec2024 21:19:59.703] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-334}
+[10Dec2024 21:19:59.704] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-335}
+[10Dec2024 21:19:59.704] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-336}
+[10Dec2024 21:19:59.724] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=30, z=-334}
+[10Dec2024 21:19:59.725] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=30, z=-338}
+[10Dec2024 21:19:59.725] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-270, y=35, z=-340}
+[10Dec2024 21:19:59.734] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-420}
+[10Dec2024 21:19:59.734] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-376, y=31, z=-419}
+[10Dec2024 21:19:59.734] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-370, y=31, z=-408}
+[10Dec2024 21:19:59.743] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=33, z=-388}
+[10Dec2024 21:19:59.751] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-332}
+[10Dec2024 21:19:59.751] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-228, y=33, z=-333}
+[10Dec2024 21:20:01.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119598 chunks (30.42%), ETA: 20:36:23, Rate: 3.7 cps, Current: 51, 173
+[10Dec2024 21:20:02.022] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-385}
+[10Dec2024 21:20:02.022] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=31, z=-381}
+[10Dec2024 21:20:02.022] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=31, z=-381}
+[10Dec2024 21:20:02.022] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-203, y=26, z=-380}
+[10Dec2024 21:20:02.022] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-204, y=26, z=-380}
+[10Dec2024 21:20:02.023] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-198, y=28, z=-384}
+[10Dec2024 21:20:02.023] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-202, y=28, z=-380}
+[10Dec2024 21:20:02.023] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-199, y=33, z=-385}
+[10Dec2024 21:20:02.204] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-206, y=31, z=-384}
+[10Dec2024 21:20:04.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119609 chunks (30.42%), ETA: 21:15:03, Rate: 3.6 cps, Current: 56, 171
+[10Dec2024 21:20:04.334] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-272, y=27, z=-357}
+[10Dec2024 21:20:04.334] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-266, y=28, z=-358}
+[10Dec2024 21:20:06.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119632 chunks (30.43%), ETA: 18:04:34, Rate: 4.2 cps, Current: 48, 169
+[10Dec2024 21:20:09.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119641 chunks (30.43%), ETA: 18:08:27, Rate: 4.2 cps, Current: 54, 168
+[10Dec2024 21:20:11.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119643 chunks (30.43%), ETA: 18:16:51, Rate: 4.2 cps, Current: 53, 168
+[10Dec2024 21:20:13.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119670 chunks (30.44%), ETA: 15:14:42, Rate: 5.0 cps, Current: 49, 165
+[10Dec2024 21:20:16.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119707 chunks (30.45%), ETA: 12:37:47, Rate: 6.0 cps, Current: 55, 168
+[10Dec2024 21:20:18.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119726 chunks (30.45%), ETA: 11:42:18, Rate: 6.5 cps, Current: 57, 167
+[10Dec2024 21:20:20.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119744 chunks (30.46%), ETA: 11:03:19, Rate: 6.9 cps, Current: 59, 165
+[10Dec2024 21:20:23.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119761 chunks (30.46%), ETA: 10:38:33, Rate: 7.1 cps, Current: 61, 160
+[10Dec2024 21:20:25.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119772 chunks (30.47%), ETA: 10:46:40, Rate: 7.0 cps, Current: 62, 161
+[10Dec2024 21:20:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119789 chunks (30.47%), ETA: 10:17:50, Rate: 7.4 cps, Current: 64, 163
+[10Dec2024 21:20:30.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119798 chunks (30.47%), ETA: 10:45:46, Rate: 7.1 cps, Current: 67, 160
+[10Dec2024 21:20:32.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119807 chunks (30.48%), ETA: 10:53:13, Rate: 7.0 cps, Current: 63, 166
+[10Dec2024 21:20:34.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119817 chunks (30.48%), ETA: 11:33:14, Rate: 6.6 cps, Current: 68, 161
+[10Dec2024 21:20:37.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119826 chunks (30.48%), ETA: 11:27:09, Rate: 6.6 cps, Current: 70, 160
+[10Dec2024 21:20:39.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119838 chunks (30.48%), ETA: 10:57:11, Rate: 6.9 cps, Current: 73, 160
+[10Dec2024 21:20:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119845 chunks (30.48%), ETA: 12:05:57, Rate: 6.3 cps, Current: 75, 160
+[10Dec2024 21:20:44.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119851 chunks (30.49%), ETA: 14:48:14, Rate: 5.1 cps, Current: 78, 161
+[10Dec2024 21:20:46.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119860 chunks (30.49%), ETA: 15:50:46, Rate: 4.8 cps, Current: 63, 168
+[10Dec2024 21:20:48.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119868 chunks (30.49%), ETA: 17:07:29, Rate: 4.4 cps, Current: 63, 176
+[10Dec2024 21:20:51.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119878 chunks (30.49%), ETA: 18:06:08, Rate: 4.2 cps, Current: 63, 184
+[10Dec2024 21:20:53.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119882 chunks (30.49%), ETA: 19:07:40, Rate: 4.0 cps, Current: 71, 163
+[10Dec2024 21:20:55.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119886 chunks (30.50%), ETA: 21:31:54, Rate: 3.5 cps, Current: 75, 163
+[10Dec2024 21:20:56.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119909 chunks (30.50%), ETA: 18:09:31, Rate: 4.2 cps, Current: 69, 167
+[10Dec2024 21:20:58.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119927 chunks (30.51%), ETA: 16:11:05, Rate: 4.7 cps, Current: 76, 169
+[10Dec2024 21:20:58.670] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[10Dec2024 21:21:01.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119934 chunks (30.51%), ETA: 16:45:12, Rate: 4.5 cps, Current: 78, 163
+[10Dec2024 21:21:02.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119958 chunks (30.51%), ETA: 14:37:15, Rate: 5.2 cps, Current: 73, 173
+[10Dec2024 21:21:03.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 119970 chunks (30.52%), ETA: 13:53:38, Rate: 5.5 cps, Current: 71, 171
+[10Dec2024 21:21:04.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120010 chunks (30.53%), ETA: 11:26:11, Rate: 6.6 cps, Current: 77, 174
+[10Dec2024 21:21:04.188] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[10Dec2024 21:21:04.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[10Dec2024 21:21:04.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[10Dec2024 21:21:04.189] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[10Dec2024 21:21:04.716] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[10Dec2024 21:21:04.716] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[10Dec2024 21:21:04.717] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[10Dec2024 21:21:04.717] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[10Dec2024 21:21:04.752] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[10Dec2024 21:21:04.752] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[10Dec2024 21:21:04.754] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[10Dec2024 21:21:04.755] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[10Dec2024 21:21:04.764] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[10Dec2024 21:21:04.765] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[10Dec2024 21:21:04.765] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[10Dec2024 21:21:04.765] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[10Dec2024 21:21:04.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[10Dec2024 21:21:04.970] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[10Dec2024 21:21:04.971] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[10Dec2024 21:21:04.971] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[10Dec2024 21:21:05.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120037 chunks (30.53%), ETA: 9:55:24, Rate: 7.6 cps, Current: 65, 176
+[10Dec2024 21:21:05.137] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[10Dec2024 21:21:05.137] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[10Dec2024 21:21:05.138] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[10Dec2024 21:21:05.138] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[10Dec2024 21:21:07.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120053 chunks (30.54%), ETA: 9:55:59, Rate: 7.6 cps, Current: 65, 178
+[10Dec2024 21:21:08.148] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[10Dec2024 21:21:08.148] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[10Dec2024 21:21:08.148] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[10Dec2024 21:21:08.148] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[10Dec2024 21:21:10.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120065 chunks (30.54%), ETA: 9:56:06, Rate: 7.6 cps, Current: 69, 181
+[10Dec2024 21:21:10.920] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[10Dec2024 21:21:10.920] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[10Dec2024 21:21:10.921] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[10Dec2024 21:21:10.921] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[10Dec2024 21:21:10.933] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[10Dec2024 21:21:10.933] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[10Dec2024 21:21:10.933] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[10Dec2024 21:21:10.933] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[10Dec2024 21:21:13.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120086 chunks (30.55%), ETA: 9:20:06, Rate: 8.1 cps, Current: 67, 182
+[10Dec2024 21:21:13.907] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[10Dec2024 21:21:13.908] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[10Dec2024 21:21:13.908] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[10Dec2024 21:21:13.908] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[10Dec2024 21:21:15.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120098 chunks (30.55%), ETA: 9:17:22, Rate: 8.2 cps, Current: 66, 184
+[10Dec2024 21:21:15.874] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[10Dec2024 21:21:15.874] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[10Dec2024 21:21:15.874] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[10Dec2024 21:21:15.874] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[10Dec2024 21:21:15.881] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[10Dec2024 21:21:15.882] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[10Dec2024 21:21:15.882] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[10Dec2024 21:21:15.882] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[10Dec2024 21:21:18.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120110 chunks (30.55%), ETA: 9:09:14, Rate: 8.3 cps, Current: 66, 190
+[10Dec2024 21:21:20.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120124 chunks (30.56%), ETA: 9:05:07, Rate: 8.3 cps, Current: 68, 189
+[10Dec2024 21:21:20.920] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[10Dec2024 21:21:20.920] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[10Dec2024 21:21:20.920] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[10Dec2024 21:21:21.261] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[10Dec2024 21:21:21.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[10Dec2024 21:21:21.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[10Dec2024 21:21:21.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[10Dec2024 21:21:23.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120136 chunks (30.56%), ETA: 8:23:56, Rate: 9.0 cps, Current: 69, 186
+[10Dec2024 21:21:23.664] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[10Dec2024 21:21:23.664] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[10Dec2024 21:21:23.664] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[10Dec2024 21:21:23.665] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[10Dec2024 21:21:26.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120153 chunks (30.56%), ETA: 9:02:26, Rate: 8.4 cps, Current: 71, 177
+[10Dec2024 21:21:26.155] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[10Dec2024 21:21:26.156] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[10Dec2024 21:21:26.156] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[10Dec2024 21:21:26.156] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[10Dec2024 21:21:26.499] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[10Dec2024 21:21:26.500] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[10Dec2024 21:21:26.500] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[10Dec2024 21:21:26.500] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[10Dec2024 21:21:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120162 chunks (30.57%), ETA: 9:04:26, Rate: 8.4 cps, Current: 72, 184
+[10Dec2024 21:21:28.794] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[10Dec2024 21:21:28.794] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[10Dec2024 21:21:28.795] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[10Dec2024 21:21:28.795] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[10Dec2024 21:21:30.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120168 chunks (30.57%), ETA: 9:37:15, Rate: 7.9 cps, Current: 71, 186
+[10Dec2024 21:21:33.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120178 chunks (30.57%), ETA: 13:06:58, Rate: 5.8 cps, Current: 73, 186
+[10Dec2024 21:21:33.551] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[10Dec2024 21:21:33.552] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[10Dec2024 21:21:33.552] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[10Dec2024 21:21:33.552] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[10Dec2024 21:21:35.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120187 chunks (30.57%), ETA: 15:43:48, Rate: 4.8 cps, Current: 75, 187
+[10Dec2024 21:21:36.005] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[10Dec2024 21:21:36.005] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[10Dec2024 21:21:36.006] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[10Dec2024 21:21:36.006] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[10Dec2024 21:21:36.235] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[10Dec2024 21:21:36.235] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[10Dec2024 21:21:36.235] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[10Dec2024 21:21:36.235] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[10Dec2024 21:21:38.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120191 chunks (30.57%), ETA: 16:19:34, Rate: 4.6 cps, Current: 75, 188
+[10Dec2024 21:21:40.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120198 chunks (30.57%), ETA: 16:54:15, Rate: 4.5 cps, Current: 76, 186
+[10Dec2024 21:21:40.905] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[10Dec2024 21:21:40.906] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[10Dec2024 21:21:40.906] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[10Dec2024 21:21:40.906] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[10Dec2024 21:21:40.906] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[10Dec2024 21:21:40.907] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[10Dec2024 21:21:40.907] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[10Dec2024 21:21:41.035] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[10Dec2024 21:21:41.035] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[10Dec2024 21:21:41.035] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[10Dec2024 21:21:41.035] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[10Dec2024 21:21:41.066] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[10Dec2024 21:21:43.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120207 chunks (30.58%), ETA: 18:27:25, Rate: 4.1 cps, Current: 76, 184
+[10Dec2024 21:21:45.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120212 chunks (30.58%), ETA: 19:32:33, Rate: 3.9 cps, Current: 75, 190
+[10Dec2024 21:21:47.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120215 chunks (30.58%), ETA: 21:02:57, Rate: 3.6 cps, Current: 78, 175
+[10Dec2024 21:21:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120224 chunks (30.58%), ETA: 22:13:05, Rate: 3.4 cps, Current: 78, 184
+[10Dec2024 21:21:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120256 chunks (30.59%), ETA: 18:16:20, Rate: 4.1 cps, Current: 74, 178
+[10Dec2024 21:21:52.637] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[10Dec2024 21:21:52.638] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[10Dec2024 21:21:52.638] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[10Dec2024 21:21:52.639] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[10Dec2024 21:21:52.667] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[10Dec2024 21:21:52.668] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[10Dec2024 21:21:52.668] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[10Dec2024 21:21:52.668] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[10Dec2024 21:21:52.668] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[10Dec2024 21:21:52.676] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[10Dec2024 21:21:52.676] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[10Dec2024 21:21:52.677] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[10Dec2024 21:21:54.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120281 chunks (30.60%), ETA: 17:00:32, Rate: 4.5 cps, Current: 79, 167
+[10Dec2024 21:21:57.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120285 chunks (30.60%), ETA: 17:33:11, Rate: 4.3 cps, Current: 79, 171
+[10Dec2024 21:21:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120291 chunks (30.60%), ETA: 17:28:26, Rate: 4.3 cps, Current: 79, 177
+[10Dec2024 21:22:02.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120296 chunks (30.60%), ETA: 18:42:03, Rate: 4.1 cps, Current: 81, 177
+[10Dec2024 21:22:02.979] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[10Dec2024 21:22:05.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120301 chunks (30.60%), ETA: 19:08:48, Rate: 4.0 cps, Current: 85, 177
+[10Dec2024 21:22:07.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120313 chunks (30.60%), ETA: 18:05:45, Rate: 4.2 cps, Current: 83, 179
+[10Dec2024 21:22:10.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120321 chunks (30.61%), ETA: 17:58:34, Rate: 4.2 cps, Current: 84, 181
+[10Dec2024 21:22:12.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120341 chunks (30.61%), ETA: 16:38:02, Rate: 4.6 cps, Current: 79, 183
+[10Dec2024 21:22:15.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120356 chunks (30.61%), ETA: 15:37:25, Rate: 4.8 cps, Current: 79, 186
+[10Dec2024 21:22:17.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 120369 chunks (30.62%), ETA: 14:14:31, Rate: 5.3 cps, Current: 79, 190
