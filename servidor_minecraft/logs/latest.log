@@ -988,3 +988,24 @@ Reason: Banned by an operator.
 [10Dec2024 17:39:21.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki has made the advancement [The Lighthouse]
 [10Dec2024 17:40:12.319] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
 [10Dec2024 17:40:12.321] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[10Dec2024 17:45:34.110] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
+[10Dec2024 17:45:49.651] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[10Dec2024 17:47:12.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA has made the advancement [Basic Tinkering (Tetra)]
+[10Dec2024 17:47:54.066] [Worker-Main-67/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[10Dec2024 17:48:25.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: maikolDLSA lost connection: Disconnected
+[10Dec2024 17:48:25.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA left the game
+[10Dec2024 17:48:44.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved too quickly! -9.367452381340854,1.600936005457413,-3.262102655152944
+[10Dec2024 17:48:56.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: maikolDLSA[/127.223.118.204:39971] logged in with entity id 72064 at (1213.5892272488504, 67.0, -1702.7033559551392)
+[10Dec2024 17:48:56.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA joined the game
+[10Dec2024 17:48:56.408] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: maikolDLSA
+[10Dec2024 17:49:15.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.80.115.157:49441] logged in with entity id 72782 at (1487.9301471075867, 64.0, -1458.1244024582584)
+[10Dec2024 17:49:15.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[10Dec2024 17:49:15.971] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[10Dec2024 17:49:39.756] [Worker-Main-73/INFO] [com.teampotato.redirector.Redirector/]: Redirecting se/mickelus/tetra/blocks/forged/hammer/HammerEffect
+[10Dec2024 17:49:57.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[10Dec2024 17:50:05.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported maikolDLSA to Alunnaki]
+[10Dec2024 17:50:13.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[10Dec2024 17:50:36.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.36298859939756767
+[10Dec2024 17:50:36.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.4653057649170478
+[10Dec2024 17:50:36.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.45149697732381355
+[10Dec2024 17:50:36.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.4523908776166081
