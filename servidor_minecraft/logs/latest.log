@@ -278,3 +278,19 @@
 [10Dec2024 02:52:10.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
 [10Dec2024 02:52:56.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
 [10Dec2024 03:04:21.741] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[10Dec2024 03:10:28.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 03:10:35.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 03:10:44.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 03:13:40.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 03:15:07.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[10Dec2024 03:15:07.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 03:17:07.438] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:58663] logged in with entity id 168851 at (1187.871203774131, 84.0, -470.95138617599025)
+[10Dec2024 03:17:07.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 03:17:07.450] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 03:17:11.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> perro
+[10Dec2024 03:17:38.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> ?
+[10Dec2024 03:17:58.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> iba a joderte pero t desconectaste y volvi para atras
+[10Dec2024 03:18:13.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> A
+[10Dec2024 03:18:22.942] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[10Dec2024 03:18:52.541] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[10Dec2024 03:20:17.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
