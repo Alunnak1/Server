@@ -186,3 +186,34 @@
 [10Dec2024 01:04:44.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved too quickly! 10.536851318915176,0.0,-1.6532488567292205
 [10Dec2024 01:04:46.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
 [10Dec2024 01:04:46.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 01:21:56.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[10Dec2024 01:21:56.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[10Dec2024 01:22:04.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.241.203.166:35099] logged in with entity id 109113 at (1628.3268761894938, 63.0, -1381.54232923782)
+[10Dec2024 01:22:04.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[10Dec2024 01:22:04.563] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[10Dec2024 01:36:57.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[10Dec2024 01:37:04.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:55533] logged in with entity id 116453 at (83.54874672568225, 107.11933289019903, 41.18430934873157)
+[10Dec2024 01:37:04.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 01:37:04.709] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 01:37:08.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 01:37:19.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved too quickly! 8.748260185723751,0.0,-6.446492970682307
+[10Dec2024 01:38:24.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [The Tear Of The Man]
+[10Dec2024 01:38:33.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 01:38:47.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 01:39:22.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 01:40:21.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 01:40:28.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 01:41:07.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 01:41:41.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 01:41:50.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 01:41:53.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[10Dec2024 01:41:53.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[10Dec2024 01:42:02.850] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.241.203.166:51695] logged in with entity id 122202 at (1467.0222353962438, 71.0, -1365.57918849097)
+[10Dec2024 01:42:02.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[10Dec2024 01:42:02.872] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[10Dec2024 01:51:06.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was blown up by Creeper
+[10Dec2024 01:51:10.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> xd
+[10Dec2024 01:51:44.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA was blown up by Creeper
+[10Dec2024 01:51:50.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsGOJIRA> mmmmm
+[10Dec2024 01:56:43.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[10Dec2024 01:56:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game

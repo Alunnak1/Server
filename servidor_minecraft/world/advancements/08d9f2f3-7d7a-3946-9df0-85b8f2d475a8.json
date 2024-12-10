@@ -3189,6 +3189,12 @@
     },
     "done": true
   },
+  "man:thetear": {
+    "criteria": {
+      "thetear_0": "2024-12-10 01:38:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-09 23:56:37 +0000"
