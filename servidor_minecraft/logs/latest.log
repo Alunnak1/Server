@@ -15,3 +15,68 @@
 [10Dec2024 00:04:00.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA died
 [10Dec2024 00:05:01.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Gave 10 [Bread] to MauricioX1]
 [10Dec2024 00:05:08.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was blown up by Night Lich
+[10Dec2024 00:05:16.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported MauricioX1 to Alunnaki]
+[10Dec2024 00:05:36.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Gave 10 [Bread] to Alunnaki]
+[10Dec2024 00:05:42.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Gave 10 [Bread] to ItsGOJIRA]
+[10Dec2024 00:05:49.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 00:06:01.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 00:06:11.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 00:06:26.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 00:06:45.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set ItsGOJIRA's game mode to Spectator Mode]
+[10Dec2024 00:07:06.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was blown up by Night Lich
+[10Dec2024 00:07:42.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has completed the challenge [Night Vanquisher]
+[10Dec2024 00:07:55.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 00:08:04.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 00:08:42.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[10Dec2024 00:08:42.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[10Dec2024 00:08:50.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
+[10Dec2024 00:08:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[10Dec2024 00:08:59.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:41991] logged in with entity id 38850 at (-5685.274915862174, 67.5, -1416.5190288539484)
+[10Dec2024 00:08:59.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[10Dec2024 00:08:59.265] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[10Dec2024 00:09:01.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[10Dec2024 00:09:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[10Dec2024 00:09:02.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.241.203.166:35965] logged in with entity id 38984 at (939.011474059635, 77.0, 57.69999998807907)
+[10Dec2024 00:09:02.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[10Dec2024 00:09:02.303] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[10Dec2024 00:09:09.095] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:43277] logged in with entity id 39354 at (-5685.274915862174, 67.5, -1416.5190288539484)
+[10Dec2024 00:09:09.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[10Dec2024 00:09:09.112] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[10Dec2024 00:09:12.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Tusklin
+[10Dec2024 00:09:31.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported MauricioX1 to Alunnaki]
+[10Dec2024 00:10:10.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Tusklin
+[10Dec2024 00:10:14.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported MauricioX1 to Alunnaki]
+[10Dec2024 00:11:22.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported MauricioX1 to Alunnaki]
+[10Dec2024 00:11:40.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ItsGOJIRA> sacamelooo
+[10Dec2024 00:11:44.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set ItsGOJIRA's game mode to Survival Mode]
+[10Dec2024 00:12:00.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Zombie
+[10Dec2024 00:12:06.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[10Dec2024 00:12:22.776] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/common/entity/MaulerEntity$Type
+[10Dec2024 00:12:37.869] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[10Dec2024 00:14:30.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported ItsGOJIRA to Alunnaki]
+[10Dec2024 00:15:43.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported ItsGOJIRA to Alunnaki]
+[10Dec2024 00:15:55.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [We Need to Go Deeper]
+[10Dec2024 00:15:55.982] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[10Dec2024 00:15:57.230] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[10Dec2024 00:15:57.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [We Need to Go Deeper]
+[10Dec2024 00:16:23.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported ItsGOJIRA to Alunnaki]
+[10Dec2024 00:16:31.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported MauricioX1 to Alunnaki]
+[10Dec2024 00:16:58.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[10Dec2024 00:16:58.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[10Dec2024 00:17:04.195] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[10Dec2024 00:17:09.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:56163] logged in with entity id 49243 at (401.22380709799745, 69.61293901646889, -13.314421953695895)
+[10Dec2024 00:17:09.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[10Dec2024 00:17:09.823] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[10Dec2024 00:17:10.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 fell from a high place
+[10Dec2024 00:17:15.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported MauricioX1 to Alunnaki]
+[10Dec2024 00:17:33.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[10Dec2024 00:17:34.841] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[10Dec2024 00:17:43.249] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[10Dec2024 00:17:48.444] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[10Dec2024 00:18:07.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA has made the advancement [It Bites]
+[10Dec2024 00:18:43.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[10Dec2024 00:19:05.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported ItsGOJIRA to Alunnaki]
+[10Dec2024 00:19:11.441] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[10Dec2024 00:19:11.442] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[10Dec2024 00:20:31.846] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/client/render/entity/player/GeckoPlayer$Perspective
+[10Dec2024 00:24:08.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported ItsGOJIRA to Alunnaki]

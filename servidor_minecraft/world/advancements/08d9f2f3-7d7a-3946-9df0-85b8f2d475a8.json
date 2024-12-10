@@ -59,6 +59,7 @@
       "minecraft:deep_frozen_ocean": "2024-12-09 18:40:44 +0000",
       "minecraft:jungle": "2024-12-06 22:37:39 +0000",
       "minecraft:ocean": "2024-12-07 01:07:29 +0000",
+      "minecraft:snowy_beach": "2024-12-10 00:09:10 +0000",
       "minecraft:flower_forest": "2024-12-06 22:24:55 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-06 22:45:16 +0000",
       "minecraft:deep_dark": "2024-12-06 23:25:40 +0000",
@@ -100,6 +101,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-06 22:56:51 +0000",
+      "minecraft:magma_cube": "2024-12-10 00:16:15 +0000",
       "minecraft:spider": "2024-12-06 22:26:04 +0000",
       "minecraft:piglin_brute": "2024-12-09 18:23:41 +0000",
       "minecraft:creeper": "2024-12-06 22:58:01 +0000",
@@ -485,6 +487,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-09 00:36:45 +0000",
+      "cooked_mutton": "2024-12-10 00:12:59 +0000",
       "sweet_berries": "2024-12-09 23:26:49 +0000",
       "cooked_beef": "2024-12-08 02:16:48 +0000",
       "baked_potato": "2024-12-06 23:17:47 +0000",
@@ -3144,9 +3147,27 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-12-10 00:15:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-10 00:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-12-09 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2024-12-10 00:18:07 +0000"
     },
     "done": true
   },
@@ -3159,6 +3180,12 @@
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2024-12-09 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-10 00:15:57 +0000"
     },
     "done": true
   },
