@@ -53,6 +53,7 @@
       "minecraft:snowy_plains": "2024-12-09 18:37:24 +0000",
       "minecraft:dripstone_caves": "2024-12-06 23:04:03 +0000",
       "minecraft:swamp": "2024-12-08 04:35:31 +0000",
+      "minecraft:grove": "2024-12-10 18:47:00 +0000",
       "minecraft:cold_ocean": "2024-12-08 04:41:00 +0000",
       "minecraft:forest": "2024-12-06 23:01:43 +0000",
       "minecraft:lush_caves": "2024-12-06 23:05:15 +0000",
@@ -64,6 +65,7 @@
       "minecraft:ocean": "2024-12-07 03:24:50 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-08 05:04:19 +0000",
       "minecraft:flower_forest": "2024-12-06 21:19:09 +0000",
+      "minecraft:frozen_peaks": "2024-12-10 18:47:09 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-06 23:47:03 +0000",
       "minecraft:deep_dark": "2024-12-06 23:30:26 +0000",
       "minecraft:meadow": "2024-12-08 02:20:56 +0000",
@@ -4218,6 +4220,18 @@
   "dungeons_arise:find_mushroom_mines": {
     "criteria": {
       "location0": "2024-12-10 18:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-10 19:02:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-12-10 19:02:22 +0000"
     },
     "done": true
   },
