@@ -41,6 +41,7 @@
       "minecraft:taiga": "2024-12-09 00:36:40 +0000",
       "minecraft:deep_ocean": "2024-12-09 22:06:12 +0000",
       "minecraft:sunflower_plains": "2024-12-08 02:24:58 +0000",
+      "minecraft:cherry_grove": "2024-12-10 22:46:55 +0000",
       "minecraft:birch_forest": "2024-12-06 23:59:07 +0000",
       "minecraft:bamboo_jungle": "2024-12-06 23:02:05 +0000",
       "minecraft:beach": "2024-12-07 01:17:48 +0000",
@@ -112,6 +113,7 @@
       "minecraft:cave_spider": "2024-12-07 00:45:46 +0000",
       "minecraft:stray": "2024-12-06 22:56:44 +0000",
       "minecraft:silverfish": "2024-12-09 22:13:33 +0000",
+      "minecraft:enderman": "2024-12-10 22:35:58 +0000",
       "minecraft:zombie": "2024-12-06 22:31:58 +0000",
       "minecraft:drowned": "2024-12-09 19:31:23 +0000",
       "minecraft:zombie_villager": "2024-12-08 02:57:45 +0000"
@@ -3135,9 +3137,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
-      "has_lilac": "2024-12-10 00:57:57 +0000"
+      "has_mutton": "2024-12-09 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-09 23:56:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-09 23:56:37 +0000"
     },
     "done": true
   },
@@ -3148,6 +3162,30 @@
     "done": true
   },
   "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-09 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-09 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-09 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-09 23:59:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-09 23:59:30 +0000"
     },
@@ -3165,9 +3203,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_leather": "2024-12-09 23:59:30 +0000"
+      "entered_nether": "2024-12-10 00:15:57 +0000"
     },
     "done": true
   },
@@ -3177,9 +3215,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_leather": "2024-12-09 23:59:30 +0000"
+      "has_lilac": "2024-12-10 00:57:57 +0000"
     },
     "done": true
   },
@@ -3195,39 +3233,51 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
     "criteria": {
-      "has_mutton": "2024-12-09 23:56:37 +0000"
+      "has_pink_petals": "2024-12-10 22:47:10 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "entered_nether": "2024-12-10 00:15:57 +0000"
+      "has_beef": "2024-12-10 22:59:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
-      "has_leather": "2024-12-09 23:59:30 +0000"
+      "has_any_ingredient": "2024-12-10 22:59:35 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "has_cooked_mutton": "2024-12-09 23:56:37 +0000"
+      "has_beef": "2024-12-10 22:59:35 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "has_mutton": "2024-12-09 23:56:37 +0000"
+      "has_beef": "2024-12-10 22:59:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
-      "has_leather": "2024-12-09 23:59:30 +0000"
+      "has_carved_pumpkin": "2024-12-10 23:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-12-10 23:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2024-12-10 23:12:03 +0000"
     },
     "done": true
   },
