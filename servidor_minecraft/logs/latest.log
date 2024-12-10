@@ -678,3 +678,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 15:43:07.423] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
 [10Dec2024 15:45:07.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
 [10Dec2024 15:46:07.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 15:49:02.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki was blown up by Creeper
+[10Dec2024 15:49:05.918] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/impl/vessel/SimpleVesselContainer$ActionType
+[10Dec2024 15:49:05.920] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[10Dec2024 15:49:11.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[10Dec2024 15:50:09.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[10Dec2024 15:50:09.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 15:52:03.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:40289] logged in with entity id 13508 at (1185.6256041920801, -50.0, -921.1209027216341)
+[10Dec2024 15:52:03.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 15:52:03.162] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 15:52:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[10Dec2024 15:52:25.322] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/cadentem/cave_dweller/entities/goals/Roll
+[10Dec2024 15:53:43.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[10Dec2024 15:53:43.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 15:54:39.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:60859] logged in with entity id 13844 at (1188.7736932322052, -49.0, -911.8904249917438)
+[10Dec2024 15:54:39.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 15:54:39.632] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 15:57:13.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[10Dec2024 15:57:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
