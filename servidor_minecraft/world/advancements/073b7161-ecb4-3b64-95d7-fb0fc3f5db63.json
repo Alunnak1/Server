@@ -4312,5 +4312,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-10 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2024-12-10 17:07:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
