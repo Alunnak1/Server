@@ -251,3 +251,16 @@
 [10Dec2024 02:25:42.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
 [10Dec2024 02:25:46.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
 [10Dec2024 02:25:47.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
+[10Dec2024 02:29:34.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 02:30:35.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.241.203.166:40379] logged in with entity id 143409 at (937.0749999880791, 77.0, 50.09862326832132)
+[10Dec2024 02:30:35.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[10Dec2024 02:30:35.303] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[10Dec2024 02:30:41.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 02:31:05.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 02:31:08.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[10Dec2024 02:32:01.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 02:32:35.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 02:34:47.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 02:34:54.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 02:36:10.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 02:36:25.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
