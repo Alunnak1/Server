@@ -1230,3 +1230,9 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [10Dec2024 18:30:06.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PeeterPan2 has made the advancement [Acquire Hardware]
 [10Dec2024 18:31:13.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PeeterPan2 lost connection: Disconnected
 [10Dec2024 18:31:13.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PeeterPan2 left the game
+[10Dec2024 18:32:47.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.65.51.229:59461] logged in with entity id 98456 at (3959.614176459366, 113.0, -1836.763972886867)
+[10Dec2024 18:32:47.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[10Dec2024 18:32:47.532] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[10Dec2024 18:34:16.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.65.51.229:33345] logged in with entity id 98788 at (3954.2519357975066, 122.0, -1824.1126082482353)
+[10Dec2024 18:34:16.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[10Dec2024 18:34:17.011] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
