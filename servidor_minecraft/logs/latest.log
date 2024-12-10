@@ -294,3 +294,24 @@
 [10Dec2024 03:18:22.942] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
 [10Dec2024 03:18:52.541] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
 [10Dec2024 03:20:17.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 03:21:41.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 03:21:59.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 03:22:01.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 03:22:42.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[10Dec2024 03:22:42.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 03:23:12.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:53263] logged in with entity id 173978 at (1189.1710743189237, 84.0, -463.8726297128101)
+[10Dec2024 03:23:12.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 03:23:12.970] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 03:23:56.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 03:24:09.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 03:26:07.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> bo
+[10Dec2024 03:26:11.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> podes dormir?
+[10Dec2024 03:26:16.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alunnaki> si
+[10Dec2024 03:26:25.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> dormite
+[10Dec2024 03:26:34.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki lost connection: Disconnected
+[10Dec2024 03:26:34.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki left the game
+[10Dec2024 03:26:38.494] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alunnaki[/127.98.166.3:50291] logged in with entity id 176624 at (1206.3108927611906, 75.92159999847412, -448.4646593677954)
+[10Dec2024 03:26:38.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alunnaki joined the game
+[10Dec2024 03:26:38.516] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
+[10Dec2024 03:27:07.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 03:29:11.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
