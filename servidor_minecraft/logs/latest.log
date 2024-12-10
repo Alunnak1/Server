@@ -327,3 +327,8 @@
 [10Dec2024 03:34:51.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mirianisabel123> como?
 [10Dec2024 03:36:55.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
 [10Dec2024 03:37:15.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 03:45:56.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[10Dec2024 03:45:56.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[10Dec2024 03:48:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
+[10Dec2024 03:48:58.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Hard]
+[10Dec2024 03:48:59.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: The difficulty has been set to Peaceful]
