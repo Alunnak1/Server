@@ -4360,5 +4360,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2024-12-10 18:08:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
