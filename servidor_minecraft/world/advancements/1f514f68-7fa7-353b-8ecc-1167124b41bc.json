@@ -37,7 +37,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-09 23:40:03 +0000",
       "minecraft:deep_ocean": "2024-12-09 23:07:56 +0000",
+      "minecraft:frozen_river": "2024-12-09 23:55:24 +0000",
       "minecraft:cherry_grove": "2024-12-07 21:15:17 +0000",
       "minecraft:sunflower_plains": "2024-12-07 20:14:31 +0000",
       "minecraft:birch_forest": "2024-12-07 00:31:49 +0000",
@@ -50,6 +52,7 @@
       "minecraft:stony_shore": "2024-12-07 19:50:56 +0000",
       "minecraft:snowy_plains": "2024-12-09 23:15:42 +0000",
       "minecraft:dripstone_caves": "2024-12-06 22:05:03 +0000",
+      "minecraft:cold_ocean": "2024-12-09 23:41:55 +0000",
       "minecraft:forest": "2024-12-06 21:35:48 +0000",
       "minecraft:lush_caves": "2024-12-06 22:48:44 +0000",
       "minecraft:jungle": "2024-12-06 22:01:21 +0000",
@@ -57,6 +60,7 @@
       "minecraft:flower_forest": "2024-12-06 19:56:13 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-07 00:10:39 +0000",
       "minecraft:deep_dark": "2024-12-06 23:28:52 +0000",
+      "minecraft:meadow": "2024-12-09 23:39:57 +0000",
       "minecraft:savanna": "2024-12-06 20:09:42 +0000",
       "minecraft:plains": "2024-12-06 20:44:05 +0000"
     },
@@ -3843,6 +3847,12 @@
     },
     "done": true
   },
+  "tetra:spelunking/find_scroll_efficiency": {
+    "criteria": {
+      "hammer_efficiency": "2024-12-09 22:40:29 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-12-09 22:54:00 +0000"
@@ -3854,12 +3864,6 @@
       "has_stripped_logs": "2024-12-09 22:54:56 +0000"
     },
     "done": true
-  },
-  "tetra:spelunking/find_scroll_efficiency": {
-    "criteria": {
-      "hammer_efficiency": "2024-12-09 22:40:29 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
@@ -3876,6 +3880,42 @@
   "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
       "has_log": "2024-12-09 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-09 23:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-09 23:51:41 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_hone": {
+    "criteria": {
+      "hilt_hone/speed": "2024-12-09 23:37:29 +0000"
+    },
+    "done": true
+  },
+  "tetra:upgrades/sword_improvement_hone": {
+    "criteria": {
+      "serrated": "2024-12-09 23:37:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-09 23:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-09 23:51:41 +0000"
     },
     "done": true
   },
