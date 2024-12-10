@@ -1222,3 +1222,11 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [10Dec2024 18:19:48.338] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
 [10Dec2024 18:20:30.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
 [10Dec2024 18:20:30.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[10Dec2024 18:25:00.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PeeterPan2[/127.144.59.153:33937] logged in with entity id 96578 at (-0.5, 76.0, 9.5)
+[10Dec2024 18:25:00.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PeeterPan2 joined the game
+[10Dec2024 18:25:00.277] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: PeeterPan2
+[10Dec2024 18:25:07.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PeeterPan2 has made the advancement [Alex's Mobs]
+[10Dec2024 18:25:43.807] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[10Dec2024 18:30:06.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PeeterPan2 has made the advancement [Acquire Hardware]
+[10Dec2024 18:31:13.474] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PeeterPan2 lost connection: Disconnected
+[10Dec2024 18:31:13.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PeeterPan2 left the game
