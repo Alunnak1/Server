@@ -4449,5 +4449,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-12-10 21:40:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2024-12-10 21:38:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
