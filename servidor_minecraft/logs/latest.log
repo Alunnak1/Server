@@ -696,3 +696,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Dec2024 15:54:39.632] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Alunnaki
 [10Dec2024 15:57:13.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
 [10Dec2024 15:57:23.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
+[10Dec2024 16:01:13.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Banned MauricioX1: Banned by an operator.]
+[10Dec2024 16:01:13.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[10Dec2024 16:01:13.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[10Dec2024 16:01:13.681] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Dec2024 16:01:19.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Unbanned MauricioX1]
+[10Dec2024 16:01:22.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.80.115.157:51199] logged in with entity id 16589 at (1183.0463376857488, 99.00133597911214, -726.290781914913)
+[10Dec2024 16:01:22.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[10Dec2024 16:01:23.014] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[10Dec2024 16:02:01.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[10Dec2024 16:05:55.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Alunnaki to MauricioX1]
