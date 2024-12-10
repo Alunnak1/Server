@@ -4264,5 +4264,17 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-10 16:27:06 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2024-12-10 16:24:01 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
