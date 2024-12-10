@@ -1009,3 +1009,55 @@ Reason: Banned by an operator.
 [10Dec2024 17:50:36.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.4653057649170478
 [10Dec2024 17:50:36.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.45149697732381355
 [10Dec2024 17:50:36.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of maikolDLSA) moved wrongly! 0.4523908776166081
+[10Dec2024 17:51:01.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: maikolDLSA lost connection: Disconnected
+[10Dec2024 17:51:01.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: maikolDLSA left the game
+[10Dec2024 17:51:05.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was slain by Man From The Fog
+[10Dec2024 17:51:20.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported MauricioX1 to Alunnaki]
+[10Dec2024 17:54:03.825] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@162fe992[id=<null>,name=Mirianisabel123,properties={},legacy=false] (/127.65.51.229:42875) lost connection: Disconnected
+[10Dec2024 17:54:13.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: You logged in from another location
+[10Dec2024 17:54:13.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[10Dec2024 17:54:13.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.65.51.229:44587] logged in with entity id 78411 at (1494.7575212260142, 64.0, -1455.7245352585992)
+[10Dec2024 17:54:13.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[10Dec2024 17:54:13.099] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[10Dec2024 17:54:17.274] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: You logged in from another location
+[10Dec2024 17:54:17.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[10Dec2024 17:54:17.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mirianisabel123[/127.65.51.229:54767] logged in with entity id 78439 at (1489.9689278484045, 65.0, -1450.082510557568)
+[10Dec2024 17:54:17.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 joined the game
+[10Dec2024 17:54:17.299] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mirianisabel123
+[10Dec2024 17:55:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 was blown up by Creeper
+[10Dec2024 17:55:59.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported MauricioX1 to Alunnaki]
+[10Dec2024 17:57:45.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved wrongly!
+[10Dec2024 17:58:11.759] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[10Dec2024 17:58:11.760] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[10Dec2024 17:58:16.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved wrongly!
+[10Dec2024 17:58:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Spectator Mode]
+[10Dec2024 17:58:54.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15598ms or 311 ticks behind
+[10Dec2024 17:58:54.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved too quickly! -2.7747743385195918,0.0,-9.722063039393788
+[10Dec2024 17:58:54.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alunnaki moved too quickly! 5.890199510620278,1.3562400538921366,-8.58090376009045
+[10Dec2024 17:58:54.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved too quickly! -6.190590842333904,-7.757387732503112,-1.4892234448768704
+[10Dec2024 17:59:00.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Creative Mode]
+[10Dec2024 17:59:32.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Set own game mode to Survival Mode]
+[10Dec2024 17:59:34.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported MauricioX1 to Alunnaki]
+[10Dec2024 17:59:37.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alunnaki: Teleported Mirianisabel123 to Alunnaki]
+[10Dec2024 17:59:53.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 moved wrongly!
+[10Dec2024 18:00:27.854] [Worker-Main-67/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=43}
+[10Dec2024 18:00:27.855] [Worker-Main-67/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=43, y=-58, z=45}
+[10Dec2024 18:00:27.855] [Worker-Main-67/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=41, y=-58, z=48}
+[10Dec2024 18:00:27.856] [Worker-Main-67/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=38, y=-58, z=49}
+[10Dec2024 18:00:27.869] [Worker-Main-67/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=49, y=-58, z=41}
+[10Dec2024 18:00:28.014] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=34, y=-58, z=50}
+[10Dec2024 18:00:28.169] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[10Dec2024 18:01:06.755] [Worker-Main-69/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[10Dec2024 18:01:06.924] [Worker-Main-67/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[10Dec2024 18:01:20.886] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[10Dec2024 18:01:20.887] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[10Dec2024 18:01:20.887] [Worker-Main-73/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[10Dec2024 18:01:21.745] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[10Dec2024 18:01:21.746] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[10Dec2024 18:01:21.746] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[10Dec2024 18:01:21.747] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[10Dec2024 18:01:22.569] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[10Dec2024 18:01:23.197] [Worker-Main-67/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[10Dec2024 18:01:23.197] [Worker-Main-67/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[10Dec2024 18:01:23.198] [Worker-Main-67/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[10Dec2024 18:01:23.199] [Worker-Main-67/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
