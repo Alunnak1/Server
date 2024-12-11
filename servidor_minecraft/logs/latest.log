@@ -1081,3 +1081,51 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [11Dec2024 03:38:01.179] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=27, z=-536}
 [11Dec2024 03:38:01.179] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-252, y=28, z=-536}
 [11Dec2024 03:38:11.395] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[11Dec2024 03:39:00.782] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[11Dec2024 03:39:09.899] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[11Dec2024 03:39:11.281] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[11Dec2024 03:39:11.281] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[11Dec2024 03:39:12.224] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-275, y=27, z=-591}
+[11Dec2024 03:39:12.224] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-282, y=35, z=-587}
+[11Dec2024 03:39:27.047] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[11Dec2024 03:39:42.431] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[11Dec2024 03:40:36.902] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[11Dec2024 03:44:12.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved too quickly! -8.017701593620586,1.4003236998146562,-7.415341434126901
+[11Dec2024 03:44:33.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77425, l='ServerLevel[world]', x=2829.37, y=78.00, z=-498.28] died, message: 'Villager suffocated in a wall'
+[11Dec2024 03:46:05.941] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[11Dec2024 03:46:33.149] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[11Dec2024 03:46:43.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[11Dec2024 03:46:43.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[11Dec2024 03:48:03.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/cadentem/cave_dweller/entities/goals/Roll
+[11Dec2024 03:48:30.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 moved wrongly!
+[11Dec2024 03:48:37.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[11Dec2024 03:48:37.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[11Dec2024 03:49:05.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:51211] logged in with entity id 83564 at (1190.4592606974986, 37.0, -1002.4747272210096)
+[11Dec2024 03:49:05.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[11Dec2024 03:49:05.117] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[11Dec2024 03:50:50.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.65.51.229:38417] logged in with entity id 87067 at (-5056.400996682813, 139.0, -1407.815831368914)
+[11Dec2024 03:50:50.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[11Dec2024 03:50:50.308] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[11Dec2024 03:52:18.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> bcspn
+[11Dec2024 03:52:48.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[11Dec2024 03:52:48.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[11Dec2024 03:55:30.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 has made the advancement [Best Friends Forever]
+[11Dec2024 04:00:15.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Dec2024 04:00:15.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sstop<--[HERE]
+[11Dec2024 04:00:20.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Dec2024 04:00:20.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Dec2024 04:00:20.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Dec2024 04:00:20.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mirianisabel123 lost connection: Disconnected
+[11Dec2024 04:00:20.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mirianisabel123 left the game
+[11Dec2024 04:00:20.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Dec2024 04:00:20.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Dec2024 04:00:20.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Dec2024 04:00:20.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Dec2024 04:00:20.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Dec2024 04:00:20.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Dec2024 04:00:20.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Dec2024 04:00:20.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Dec2024 04:00:20.723] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11Dec2024 04:00:20.724] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[11Dec2024 04:00:20.724] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[11Dec2024 04:00:20.724] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
