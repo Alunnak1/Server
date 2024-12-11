@@ -45,6 +45,7 @@
       "minecraft:sparse_jungle": "2024-12-06 23:27:53 +0000",
       "minecraft:river": "2024-12-06 23:23:42 +0000",
       "minecraft:dripstone_caves": "2024-12-06 23:32:08 +0000",
+      "minecraft:swamp": "2024-12-11 02:50:44 +0000",
       "minecraft:forest": "2024-12-06 23:25:34 +0000",
       "minecraft:lush_caves": "2024-12-06 23:37:49 +0000",
       "minecraft:windswept_forest": "2024-12-08 21:21:30 +0000",
@@ -384,7 +385,8 @@
       "rotten_flesh": "2024-12-06 23:43:46 +0000",
       "melon_slice": "2024-12-06 23:56:02 +0000",
       "golden_carrot": "2024-12-06 23:36:00 +0000",
-      "cooked_salmon": "2024-12-08 01:24:05 +0000"
+      "cooked_salmon": "2024-12-08 01:24:05 +0000",
+      "carrot": "2024-12-11 02:53:05 +0000"
     },
     "done": false
   },
@@ -2548,6 +2550,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-09 01:32:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-09 01:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-09 01:37:35 +0000"
@@ -2557,12 +2571,6 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-12-09 01:37:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2024-12-09 01:35:38 +0000"
     },
     "done": true
   },
@@ -2599,12 +2607,6 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2024-12-09 01:37:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2024-12-09 01:32:37 +0000"
     },
     "done": true
   },
@@ -2653,6 +2655,18 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-09 01:37:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 02:54:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 02:54:12 +0000"
     },
     "done": true
   },
