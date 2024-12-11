@@ -47,6 +47,7 @@
       "minecraft:bamboo_jungle": "2024-12-06 23:07:29 +0000",
       "minecraft:beach": "2024-12-07 03:24:30 +0000",
       "minecraft:dark_forest": "2024-12-07 03:38:18 +0000",
+      "minecraft:stony_peaks": "2024-12-11 03:28:57 +0000",
       "minecraft:sparse_jungle": "2024-12-06 23:00:38 +0000",
       "minecraft:river": "2024-12-06 21:22:08 +0000",
       "minecraft:stony_shore": "2024-12-07 03:38:55 +0000",
@@ -54,6 +55,7 @@
       "minecraft:dripstone_caves": "2024-12-06 23:04:03 +0000",
       "minecraft:swamp": "2024-12-08 04:35:31 +0000",
       "minecraft:grove": "2024-12-10 18:47:00 +0000",
+      "minecraft:jagged_peaks": "2024-12-11 03:30:59 +0000",
       "minecraft:cold_ocean": "2024-12-08 04:41:00 +0000",
       "minecraft:forest": "2024-12-06 23:01:43 +0000",
       "minecraft:lush_caves": "2024-12-06 23:05:15 +0000",
@@ -4232,6 +4234,12 @@
   "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
     "criteria": {
       "has_vex_armor_trim_smithing_template": "2024-12-10 19:02:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-11 03:34:27 +0000"
     },
     "done": true
   },
