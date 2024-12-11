@@ -823,3 +823,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 16:37:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 was slain by Husk
 [11Dec2024 16:37:51.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 has made the advancement [Ice Bucket Challenge]
 [11Dec2024 16:39:20.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> 1500 -1450
+[11Dec2024 16:45:02.909] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[11Dec2024 16:45:24.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[11Dec2024 16:45:24.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[11Dec2024 16:46:44.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[11Dec2024 16:46:44.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[11Dec2024 16:48:39.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[11Dec2024 16:48:39.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[11Dec2024 16:50:48.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:41307] logged in with entity id 86860 at (1249.699999988079, -10.0, -1052.699999988079)
+[11Dec2024 16:50:48.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[11Dec2024 16:50:48.726] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[11Dec2024 16:51:13.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA moved wrongly!
+[11Dec2024 16:51:40.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA moved wrongly!
