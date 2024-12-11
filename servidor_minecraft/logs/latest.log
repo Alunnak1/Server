@@ -740,3 +740,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 15:50:55.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved wrongly!
 [11Dec2024 15:50:58.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
 [11Dec2024 15:50:58.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
+[11Dec2024 15:54:27.365] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[11Dec2024 15:54:27.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[11Dec2024 15:54:43.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NAHU_1234[/127.255.157.56:48279] logged in with entity id 45885 at (-2543.3259678970244, 79.0, -1469.7718592756885)
+[11Dec2024 15:54:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 joined the game
+[11Dec2024 15:54:43.291] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: NAHU_1234
+[11Dec2024 15:55:49.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NAHU_1234> w
+[11Dec2024 15:57:21.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[11Dec2024 15:57:21.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[11Dec2024 16:02:32.429] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGOJIRA[/127.80.199.128:55961] logged in with entity id 51888 at (1501.598118481413, 66.0, -1433.9798390561193)
+[11Dec2024 16:02:32.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA joined the game
+[11Dec2024 16:02:32.441] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ItsGOJIRA
+[11Dec2024 16:04:56.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGOJIRA lost connection: Disconnected
+[11Dec2024 16:04:56.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGOJIRA left the game
+[11Dec2024 16:05:25.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 lost connection: Disconnected
+[11Dec2024 16:05:25.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NAHU_1234 left the game
+[11Dec2024 16:07:08.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MauricioX1[/127.241.203.166:43293] logged in with entity id 55460 at (-976.8385496380756, 63.0, -1524.609132949028)
+[11Dec2024 16:07:08.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 joined the game
+[11Dec2024 16:07:08.427] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: MauricioX1
+[11Dec2024 16:10:36.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[11Dec2024 16:10:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game

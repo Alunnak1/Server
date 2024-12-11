@@ -4526,21 +4526,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
+  "alexsmobs:alexsmobs/lost_tentacle": {
     "criteria": {
-      "salmon": "2024-12-11 15:40:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2024-12-11 15:39:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2024-12-11 15:47:16 +0000"
+      "capsid": "2024-12-11 15:22:52 +0000"
     },
     "done": true
   },
@@ -4550,9 +4538,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/lost_tentacle": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "capsid": "2024-12-11 15:22:52 +0000"
+      "has_cod": "2024-12-11 15:39:03 +0000"
     },
     "done": true
   },
@@ -4565,6 +4553,18 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-11 15:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-12-11 15:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-11 15:47:16 +0000"
     },
     "done": true
   },
