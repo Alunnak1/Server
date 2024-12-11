@@ -1008,6 +1008,7 @@
       "porkchop": "2024-12-07 02:03:04 +0000",
       "apple": "2024-12-06 22:01:15 +0000",
       "potato": "2024-12-08 02:17:37 +0000",
+      "cooked_cod": "2024-12-11 15:46:42 +0000",
       "mutton": "2024-12-08 23:34:15 +0000",
       "bread": "2024-12-06 20:29:02 +0000",
       "golden_apple": "2024-12-06 23:03:53 +0000",
@@ -4525,6 +4526,24 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2024-12-11 15:40:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-11 15:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-11 15:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-12-11 15:32:32 +0000"
@@ -4534,6 +4553,18 @@
   "alexsmobs:alexsmobs/lost_tentacle": {
     "criteria": {
       "capsid": "2024-12-11 15:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-11 15:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-11 15:39:03 +0000"
     },
     "done": true
   },

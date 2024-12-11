@@ -730,3 +730,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 15:37:45.606] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/AnacondaPartIndex
 [11Dec2024 15:39:21.654] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
 [11Dec2024 15:39:25.977] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[11Dec2024 15:40:38.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 has made the advancement [Fishy Business]
+[11Dec2024 15:43:51.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> -9754
+[11Dec2024 15:43:51.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved wrongly!
+[11Dec2024 15:43:56.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MauricioX1> -974 -1525
+[11Dec2024 15:44:05.126] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[11Dec2024 15:46:26.973] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[11Dec2024 15:46:26.975] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[11Dec2024 15:50:55.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NAHU_1234 moved wrongly!
+[11Dec2024 15:50:58.024] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MauricioX1 lost connection: Disconnected
+[11Dec2024 15:50:58.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MauricioX1 left the game
