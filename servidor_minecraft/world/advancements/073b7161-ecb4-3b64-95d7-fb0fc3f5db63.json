@@ -4525,5 +4525,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-12-11 15:32:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2024-12-11 15:22:52 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
